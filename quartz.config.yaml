@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: somnoprivatio.github.io/public-dnd-nautheah
+  baseUrl: somnoprivatio.github.io/nautheah-garden
   ignorePatterns:
     - private
     - templates
