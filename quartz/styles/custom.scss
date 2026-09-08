@@ -1,3 +1,341 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* Northern Current Carnies — Nautheah public-garden theme
+ * Visual source: the campaign banner, Forever Port Gazette, and campaign
+ * visual-style reference. The installed campaign display font is used locally
+ * when available; Rye is its public-web fallback. IM Fell English keeps body
+ * copy readable while retaining the aged-storybook character.
+ */
+
+@font-face {
+  font-family: "NCC Display Local";
+  src: local("Carnevalee Freakshow"), local("Carnivalee Freakshow");
+  font-display: swap;
+}
+
+:root {
+  --ncc-ember: #c64f25;
+  --ncc-flame: #f09a3e;
+  --ncc-crimson: #7e2330;
+  --ncc-plum: #542039;
+  --ncc-ocean: #273843;
+  --ncc-bronze: #9a6a36;
+  --ncc-brass: #c4934d;
+  --ncc-paper: #f3e5c4;
+  --ncc-ink: #271716;
+  --ncc-panel: rgba(246, 231, 198, 0.9);
+  --ncc-panel-strong: rgba(250, 239, 216, 0.96);
+  --ncc-rule: rgba(94, 50, 35, 0.45);
+  --ncc-shadow: 0 14px 36px rgba(36, 18, 20, 0.16);
+}
+
+:root[saved-theme="dark"] {
+  --ncc-panel: rgba(27, 14, 22, 0.9);
+  --ncc-panel-strong: rgba(34, 17, 27, 0.97);
+  --ncc-rule: rgba(196, 147, 77, 0.36);
+  --ncc-shadow: 0 18px 45px rgba(0, 0, 0, 0.48);
+}
+
+body {
+  background:
+    radial-gradient(circle at 84% 4%, rgba(240, 112, 39, 0.18), transparent 30rem),
+    radial-gradient(circle at 12% 18%, rgba(91, 35, 74, 0.14), transparent 34rem),
+    linear-gradient(145deg, color-mix(in srgb, var(--light) 95%, var(--ncc-ocean)), var(--light));
+  background-attachment: fixed;
+  font-family: var(--bodyFont);
+  letter-spacing: 0.012em;
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  content: "";
+  pointer-events: none;
+  opacity: 0.28;
+  background-image:
+    repeating-linear-gradient(7deg, rgba(96, 56, 37, 0.025) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(97deg, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 7px);
+}
+
+:root[saved-theme="dark"] body {
+  background:
+    radial-gradient(circle at 86% 3%, rgba(224, 85, 31, 0.23), transparent 29rem),
+    radial-gradient(circle at 9% 16%, rgba(112, 38, 86, 0.22), transparent 34rem),
+    linear-gradient(145deg, #0d1218, var(--light) 40%, #160a13);
+  background-attachment: fixed;
+}
+
+.page {
+  max-width: 1520px;
+}
+
+.page > #quartz-body .sidebar {
+  scrollbar-color: var(--ncc-bronze) transparent;
+}
+
+@media all and ($desktop) {
+  .page > #quartz-body .sidebar.left {
+    border-right: 1px solid var(--ncc-rule);
+    background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--ncc-panel) 76%, transparent));
+  }
+
+  .page > #quartz-body .sidebar.right {
+    border-left: 1px solid var(--ncc-rule);
+    background: linear-gradient(270deg, transparent, color-mix(in srgb, var(--ncc-panel) 76%, transparent));
+  }
+}
+
+.page-title a,
+.article-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.explorer-toggle h2 {
+  font-family: "NCC Display Local", var(--headerFont);
+  font-weight: 400;
+  letter-spacing: 0.045em;
+}
+
+.page-title {
+  position: relative;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.85rem;
+  text-align: center;
+}
+
+.page-title::after {
+  position: absolute;
+  right: 10%;
+  bottom: 0;
+  left: 10%;
+  height: 3px;
+  content: "";
+  background: linear-gradient(90deg, transparent, var(--ncc-bronze), var(--ncc-ember), var(--ncc-bronze), transparent);
+}
+
+.page-title a {
+  color: var(--dark);
+  font-size: 1.35rem;
+  text-shadow: 0 1px 0 color-mix(in srgb, var(--ncc-brass) 35%, transparent);
+}
+
+.article-title {
+  color: var(--dark);
+  font-size: clamp(2rem, 4vw, 3.15rem);
+  line-height: 1.16;
+  text-wrap: balance;
+  text-shadow: 0 2px 0 color-mix(in srgb, var(--ncc-brass) 28%, transparent);
+}
+
+.article-title::after {
+  display: block;
+  width: min(24rem, 72%);
+  height: 4px;
+  margin-top: 0.7rem;
+  content: "";
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--ncc-ember), var(--ncc-brass), transparent);
+}
+
+article h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  color: var(--dark);
+  border-bottom: 1px solid var(--ncc-rule);
+}
+
+article h3,
+article h4 {
+  color: color-mix(in srgb, var(--dark) 82%, var(--ncc-crimson));
+}
+
+.page > #quartz-body .page-header,
+.page > #quartz-body .center > article {
+  box-sizing: border-box;
+  border: 1px solid var(--ncc-rule);
+  border-radius: 10px;
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--ncc-panel-strong) 96%, transparent), var(--ncc-panel));
+  box-shadow: var(--ncc-shadow), inset 0 0 0 3px color-mix(in srgb, var(--ncc-brass) 8%, transparent);
+}
+
+.page > #quartz-body .page-header {
+  padding: 1.3rem 1.7rem 1rem;
+}
+
+.page > #quartz-body .center > article {
+  margin-top: 0.8rem;
+  padding: 1.1rem 1.7rem 2rem;
+}
+
+body[data-slug="index"] .page-header {
+  position: relative;
+  min-height: clamp(10rem, 24vw, 15rem);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background-image:
+    linear-gradient(180deg, rgba(9, 6, 10, 0.06), rgba(12, 7, 12, 0.88)),
+    url("./static/ncc-banner.png");
+  background-position: center;
+  background-size: cover;
+}
+
+body[data-slug="index"] .page-header::after {
+  position: absolute;
+  inset: 7px;
+  content: "";
+  pointer-events: none;
+  border: 1px solid rgba(214, 158, 77, 0.52);
+  border-radius: 6px;
+}
+
+body[data-slug="index"] .page-header .popover-hint {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+body[data-slug="index"] .article-title {
+  margin-bottom: 0.15rem;
+  color: #f6dfb0;
+  text-shadow: 0 3px 7px #12070c, 0 0 22px rgba(225, 82, 27, 0.46);
+}
+
+body[data-slug="index"] .article-title::after {
+  background: linear-gradient(90deg, #ea6e2d, #d0a35a, transparent);
+}
+
+body[data-slug="index"] .page-header .note-properties,
+body[data-slug="index"] .page-header .content-meta {
+  display: none;
+}
+
+a.internal {
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 45%, transparent);
+  border-radius: 3px;
+  transition: color 150ms ease, background-color 150ms ease, border-color 150ms ease;
+}
+
+a.internal:hover {
+  border-color: var(--tertiary);
+  background-color: color-mix(in srgb, var(--highlight) 78%, var(--ncc-flame));
+}
+
+.tag-link {
+  border: 1px solid color-mix(in srgb, var(--ncc-bronze) 55%, transparent);
+  border-radius: 999px !important;
+  padding: 0.08rem 0.48rem !important;
+}
+
+blockquote {
+  position: relative;
+  margin-left: 0;
+  padding: 0.65rem 1rem 0.65rem 1.25rem;
+  border-left: 4px solid var(--ncc-ember);
+  background: linear-gradient(90deg, var(--highlight), transparent);
+  font-style: italic;
+}
+
+.callout {
+  border: 1px solid color-mix(in srgb, var(--color) 55%, var(--ncc-bronze));
+  border-left-width: 4px;
+  border-radius: 7px;
+  box-shadow: 0 8px 22px rgba(35, 14, 19, 0.08);
+}
+
+table {
+  overflow: hidden;
+  border: 1px solid var(--ncc-rule);
+  border-radius: 7px;
+  box-shadow: 0 6px 18px rgba(35, 14, 19, 0.08);
+}
+
+thead tr {
+  background: linear-gradient(90deg, color-mix(in srgb, var(--ncc-crimson) 82%, var(--light)), color-mix(in srgb, var(--ncc-plum) 78%, var(--light)));
+}
+
+thead th,
+thead th p {
+  color: #f6e7c7;
+  font-family: var(--headerFont);
+  font-weight: 400;
+  letter-spacing: 0.035em;
+}
+
+tbody tr:nth-child(even) {
+  background-color: color-mix(in srgb, var(--lightgray) 42%, transparent);
+}
+
+pre,
+code {
+  border-color: var(--ncc-rule);
+}
+
+img {
+  border: 1px solid var(--ncc-rule);
+  border-radius: 7px;
+  box-shadow: 0 10px 28px rgba(28, 11, 17, 0.2);
+}
+
+.search-button,
+.darkmode,
+.readermode,
+.global-graph-icon {
+  border-color: transparent;
+  color: var(--secondary);
+}
+
+.search-button:hover,
+.darkmode:hover,
+.readermode:hover,
+.global-graph-icon:hover {
+  color: var(--tertiary);
+  background-color: var(--highlight);
+}
+
+.explorer .folder-container:hover,
+.explorer a:hover {
+  background: linear-gradient(90deg, var(--highlight), transparent);
+}
+
+.explorer a.active {
+  border-left: 3px solid var(--ncc-ember);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--highlight) 78%, var(--ncc-plum)), transparent);
+}
+
+hr {
+  height: 3px;
+  border: 0;
+  background: linear-gradient(90deg, transparent, var(--ncc-bronze), var(--ncc-ember), var(--ncc-bronze), transparent);
+}
+
+footer {
+  border-top: 1px solid var(--ncc-rule);
+  color: var(--gray);
+}
+
+@media all and ($mobile) {
+  body {
+    background-attachment: scroll;
+  }
+
+  .page > #quartz-body .page-header,
+  .page > #quartz-body .center > article {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  body[data-slug="index"] .page-header {
+    min-height: 9.5rem;
+    background-position: center;
+  }
+
+  .article-title {
+    font-size: 2rem;
+  }
+}
