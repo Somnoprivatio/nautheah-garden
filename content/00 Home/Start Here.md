@@ -1,8 +1,8 @@
 ---
-title: "Nautheah Player Guide"
+title: Nautheah Player Guide
 aliases:
-  - "Start Here"
-  - "Nautheah Public Vault"
+  - Start Here
+  - Nautheah Public Vault
 tags:
   - index
   - world
@@ -10,7 +10,7 @@ created: 2026-09-07
 updated: 2026-09-07
 ---
 
-# Nautheah Player Guide ***this is a test***
+# Nautheah Player Guide
 
 Welcome to **Nautheah**, a world of far-reaching currents, island powers, continental capitals, old faiths, and adventuring work carried by public boards and newspapers.
 
