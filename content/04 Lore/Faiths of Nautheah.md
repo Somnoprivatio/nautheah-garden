@@ -4,7 +4,7 @@ tags:
   - lore
   - deity
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-10
 ---
 
 # Faiths of Nautheah
@@ -20,6 +20,10 @@ Selanora is a moon-and-sea figure central to Triton history, the [[04 Lore/Death
 ## Azul
 
 Azul is a sea deity honored especially by farmers and sailors of Morning Dew. Public tradition associates Azul with safe passage, restraint before the sea, and the responsibilities of people whose lives depend upon water.
+
+## Eldath
+
+Eldath is associated with peace, still water, and deliberate restraint. The [[03 Factions/Temple of the Still Palm|Temple of the Still Palm]] in New Anglia honors her through meditation, breath discipline, controlled martial practice, and teachings that distinguish composure from passivity.
 
 ## Regional faiths
 

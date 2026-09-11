@@ -4,7 +4,7 @@ tags:
   - faction
   - index
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-10
 ---
 
 # Faction Index
@@ -16,5 +16,6 @@ updated: 2026-09-07
 - [[03 Factions/Houses Jenk and Shellstitch#House Shellstitch|House Shellstitch]] — prominent Elpa family.
 - [[03 Factions/Fali-City Adventuring Academy|Fali-City Adventuring Academy]] — public school for adventurers.
 - [[03 Factions/Circle of the Moon|Circle of the Moon]] — recognized druidic tradition.
+- [[03 Factions/Temple of the Still Palm|Temple of the Still Palm]] — old Eldathan monastic order in New Anglia.
 
 Secret groups, unintroduced factions, and organizations existing only as GM preparation are excluded.

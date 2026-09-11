@@ -6,7 +6,7 @@ tags:
   - place
   - index
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-10
 ---
 
 # Places Index
@@ -27,6 +27,8 @@ updated: 2026-09-07
 - [[01 World/Fisherman's Detriment#Forever Port|Forever Port]]
 - [[01 World/Fisherman's Detriment#Morning Dew|Morning Dew]]
 - [[01 World/Lakeland#Lakeland City|Lakeland City]]
+- [[01 World/Tidemarch|Tidemarch]] — shipbuilding town on New Anglia's western border coast.
+- [[01 World/Brackenford|Brackenford]] — inland market town on the western trade and foothill roads.
 
 ## Major regions and islands
 
@@ -38,3 +40,6 @@ updated: 2026-09-07
 - [[01 World/Great Regions and Islands#Suckstuck|Suckstuck]]
 - [[01 World/Great Regions and Islands#Vortex of Mist|Vortex of Mist]]
 - [[01 World/Great Regions and Islands#Uninhabited Island|Uninhabited Island]]
+- [[01 World/Alderhush|Alderhush]] — damp woodland north of Brackenford.
+- [[01 World/Crosswater Reach|Crosswater Reach]] — Whoasis-facing maritime route west of New Anglia.
+- [[01 World/Temple of the Still Palm|Temple of the Still Palm]] — old mountain monastery in New Anglia.
