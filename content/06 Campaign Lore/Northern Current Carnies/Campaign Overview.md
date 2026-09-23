@@ -4,7 +4,7 @@ tags:
   - campaign/northern-current-carnies
   - index
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-23
 ---
 
 # Northern Current Carnies Campaign Overview
@@ -21,10 +21,12 @@ The **Northern Current Carnies** is the active Nautheah campaign. Its five playe
 - [[06 Campaign Lore/Northern Current Carnies/Open Threads|Open Threads]]
 - [[06 Campaign Lore/Northern Current Carnies/Missions and Locations|Missions and Locations]]
 - [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]]
+- [[06 Campaign Lore/Northern Current Carnies/Session 005 - Captive Wagon and Cinder Ledger|Session 005 — Captive Wagon and Cinder Ledger]]
+- [[06 Campaign Lore/Northern Current Carnies/Session 006 - Infiltrating the Cinder Ledger|Session 006 — Infiltrating the Cinder Ledger]]
 - [[02 People/Northern Current Carnies|Character Profiles]]
 
 ## Current state
 
-The campaign is on **Earthheart 8, Sunglade, Year 513, at midday**. The party is divided between the Drowning Promise and an alley ambush site in Forever Port. Two attackers are alive and available for questioning; the cart used in the ambush has not been searched.
+The latest recorded session ended on **Sunglade 9, Year 513, at 1:32 PM**. The party is aboard the Drowning Promise, one day from Forever Port. The Cinder Ledger has been delayed by rudder damage, but its living captives have not been rescued and its locked ledger has not been examined.
 
 This section includes shared party knowledge. It does not reveal private character memories, unshared discoveries, or future-session preparation.

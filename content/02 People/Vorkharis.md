@@ -28,6 +28,6 @@ The **Forever Port Gazette** associates the Ash Sovereign title with:
 
 These reports are serious public allegations, not a complete legal finding. The public record does not establish Vorkharis's lair, full command structure, exact number of captives, or whether every reported seizure was personally ordered by the dragon.
 
-No named field commander is confirmed in the public record. References to a name rendered as **“Vorkis”** remain an unresolved investigative or transcription lead rather than an established public identity.
+No named field commander is confirmed in the public record. The wider command structure remains an active investigative question.
 
 **Tags:** #people #threat #public-record #campaign/northern-current-carnies

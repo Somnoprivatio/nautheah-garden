@@ -20,6 +20,7 @@ This page collects the active party's public-facing mission leads and locations 
 - **Elpa, City of the Two Tides:** The party provisioned, commissioned equipment, resolved the Leroy Jenk obligation, and departed aboard the Drowning Promise.
 - **Forever Port:** The party arrived after a three-day voyage and visited [[01 World/Forever Port#Talontinous Delight|Talontinous Delight]].
 - **Talontinous Delight:** The party completed Keelwhisper's contact exchange, arranged Maclear's delayed cargo delivery, and received leads concerning Selanora's Seeds.
+- **Forever Port investigation sites:** The party later investigated an alley ambush, arranged care for rescued captives, and followed an academy contact lead.
 
 New Anglia is a reported destination in the Vorkharis investigation, not a completed location visit in this public chronicle.
 
@@ -39,11 +40,11 @@ The party is seeking reliable information about Selanora's Seeds, the Black Curr
 
 ### Vorkharis and the Cinder Ledger
 
-The Forever Port Gazette's New Anglia report created a public investigative lead involving disappearances, forced labor, coastal transfers, and volcanic work sites. The Cinder Ledger is a related unresolved vessel lead. The party has not publicly established its complete route, cargo, command structure, or final destination.
+The Forever Port Gazette's New Anglia report created a public investigative lead involving disappearances, forced labor, coastal transfers, and volcanic work sites. The party recovered four captives from a hidden wagon compartment and later delayed the Cinder Ledger by damaging its rudder. Living captives were confirmed aboard, but the party has not completed a rescue or established the vessel's complete route, cargo, command structure, or final destination. [[02 People/Vorkesh Sorn|Vorkesh Sorn]], head of Forever Port's [[03 Factions/Iron Authority|Iron Authority]] naval military, is now a public authority figure relevant to the investigation; his personal involvement remains unestablished.
 
 ### Forever Port evidence
 
-The party's open lines of inquiry include the newspaper and Rod of Encode Thoughts received after leaving Talontinous Delight, the ambush evidence, and any future testimony that can corroborate the Gazette's allegations. Unused or unsubmitted job-board messages remain separate from the Vorkharis investigation.
+The party's open lines of inquiry include the analyzed Rod of Encode Thoughts, the ambush evidence, the Cinder Ledger's locked records, and any future testimony that can corroborate the Gazette's allegations. No goods-only job has been requested, and unsubmitted job-board messages remain separate from the Vorkharis investigation.
 
 ## Public boundary
 
