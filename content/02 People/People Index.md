@@ -24,6 +24,14 @@ updated: 2026-09-07
 - [[02 People/Civic and World Figures#Leroy Jenk|Leroy Jenk]] — captain in Elpa's main port guard and member of House Jenk.
 - [[02 People/Civic and World Figures#Elder Sylvanos|Elder Sylvanos]] — known elder associated with the Circle of the Moon.
 - [[02 People/Civic and World Figures#Sylvaris Moonshadow|Sylvaris Moonshadow]] — known member of the Moonshadow family and Circle tradition.
+- [[02 People/Malithar Windrider|Malithar Windrider]] — wizard and official mentor at the Fali-City Adventuring Academy.
+- [[02 People/Aeris Moonshadow|Aeris Moonshadow]] — druid and possible Circle of the Moon contact.
+
+## Northern Current Carnies investigation
+
+- [[02 People/Black Caesar|Black Caesar]] — captain's name attached to the unresolved Cinder Ledger lead.
+- [[02 People/Madruk Inkmaul|Madruk Inkmaul]] — first mate and arcane scribe associated with the Cinder Ledger.
+- [[02 People/Vorkharis|Vorkharis]] — the Ash Sovereign named in current public warnings.
 
 ## Merchants and proprietors
 

@@ -24,7 +24,7 @@ updated: 2026-09-10
 ## Cities and settlements
 
 - [[01 World/Fisherman's Detriment#Elpa, City of the Two Tides|Elpa]]
-- [[01 World/Fisherman's Detriment#Forever Port|Forever Port]]
+- [[01 World/Forever Port|Forever Port]]
 - [[01 World/Fisherman's Detriment#Morning Dew|Morning Dew]]
 - [[01 World/Lakeland#Lakeland City|Lakeland City]]
 - [[01 World/Tidemarch|Tidemarch]] — shipbuilding town on New Anglia's western border coast.

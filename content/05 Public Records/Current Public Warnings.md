@@ -11,7 +11,7 @@ updated: 2026-09-07
 
 [[05 Public Records/Public Records Index|Public Records]]
 
-## Vorkharis
+## [[02 People/Vorkharis|Vorkharis]]
 
 The Forever Port Gazette publicly associates Vorkharis, called the **Ash Sovereign**, with disappearances, forced labor, hobgoblin quartermasters, coastal transfers, and volcanic work sites in New Anglia. The connection is a serious published allegation, not a complete legal finding.
 

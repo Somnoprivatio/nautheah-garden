@@ -19,6 +19,8 @@ The **Northern Current Carnies** is the active Nautheah campaign. Its five playe
 - [[06 Campaign Lore/Northern Current Carnies/Campaign Chronicle|Campaign Chronicle]]
 - [[06 Campaign Lore/Northern Current Carnies/Party-Known Discoveries|Party-Known Discoveries]]
 - [[06 Campaign Lore/Northern Current Carnies/Open Threads|Open Threads]]
+- [[06 Campaign Lore/Northern Current Carnies/Missions and Locations|Missions and Locations]]
+- [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]]
 - [[02 People/Northern Current Carnies|Character Profiles]]
 
 ## Current state

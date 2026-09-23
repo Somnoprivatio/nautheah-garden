@@ -26,3 +26,7 @@ The crew purchased ten days of provisions before leaving Elpa. Construction bega
 - [[02 People/Northern Current Carnies#Vesper|Vesper]] — shipwright and strong-person.
 
 Captain Maclear, the former captain, died during the mutiny. The exact contents of his delayed cargo remain unknown even though its delivery at Forever Port was accepted.
+
+## Cinder Ledger lead
+
+The [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger]] is a separate unresolved vessel lead connected to the current Vorkharis investigation. It is not the Drowning Promise, and no completed interception or rescue is recorded in the public chronicle.

@@ -18,6 +18,7 @@ updated: 2026-09-07
 - Reunite with Jinx near the Drowning Promise.
 - Decide whether to read, share, or otherwise act on the [[05 Public Records/Issues/Earthheart 8, Year 513 - Vorkharis Takes the Living|Vorkharis report]].
 - Determine whether and how to use the Rod of Encode Thoughts.
+- Verify the Cinder Ledger lead without assuming that a public allegation proves the ship's full route or command chain.
 
 ## Continuing
 

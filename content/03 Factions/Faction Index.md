@@ -17,5 +17,6 @@ updated: 2026-09-10
 - [[03 Factions/Fali-City Adventuring Academy|Fali-City Adventuring Academy]] — public school for adventurers.
 - [[03 Factions/Circle of the Moon|Circle of the Moon]] — recognized druidic tradition.
 - [[03 Factions/Temple of the Still Palm|Temple of the Still Palm]] — old Eldathan monastic order in New Anglia.
+- [[05 Public Records/Forever Port Gazette|Forever Port Gazette]] — widely circulating maritime newspaper and public warning source.
 
 Secret groups, unintroduced factions, and organizations existing only as GM preparation are excluded.

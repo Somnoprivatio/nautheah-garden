@@ -28,4 +28,4 @@ Morning Dew is a settlement within Fisherman's Detriment. Farmers and sailors sh
 
 ## Forever Port
 
-Forever Port is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to Talontinous Delight, operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
+[[01 World/Forever Port|Forever Port]] is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to [[02 World/Fisherman's Detriment/Settlements/Forever Port/Shops/Talontinous Delight|Talontinous Delight]], operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
