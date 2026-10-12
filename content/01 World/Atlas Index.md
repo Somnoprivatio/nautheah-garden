@@ -5,12 +5,12 @@ tags:
   - index
   - public-record
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Approved Locations Atlas
 
-[[00 Home/Start Here|Home]] · [[01 World/Places Index|Places Index]]
+[[00 Home/Start Here|Home]] · [[01 World/Places Index|Places Index]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]]
 
 This atlas contains high-level public summaries for approved Nautheah regions and towns. Private officials, GM-only structures, and unresolved adventure hooks are intentionally omitted.
 
@@ -22,7 +22,7 @@ This atlas contains high-level public summaries for approved Nautheah regions an
 - [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] — northern mountain region and source of major waterways.
 - [[01 World/Atlas/Places/Prominence|Prominence]] — war-scarred eastern continent.
 - [[01 World/Atlas/Places/Selanora's Island|Selanora's Island]] — forested island realm of lunar tradition.
-- [[01 World/Atlas/Places/Simic Isles|Simic Isles]] — volcanic island region shaped by living alchemy.
+- [[01 World/Atlas/Places/Simic Isles|Simic Isles]] — volcanic island nation shaped by living alchemy.
 - [[01 World/Atlas/Places/Suckstuck|Suckstuck]] — half-continent-scale swamp region.
 - [[01 World/Atlas/Places/Uninhabited Island|Uninhabited Island]] — large, uncharted island.
 - [[01 World/Atlas/Places/Vortex of Mist|Vortex of Mist]] — dangerous region of mana storms.
@@ -39,7 +39,6 @@ This atlas contains high-level public summaries for approved Nautheah regions an
 - [[01 World/Atlas/Regions/Lantern Shoals|Lantern Shoals]] — night-sailing shoal district.
 - [[01 World/Atlas/Regions/Mawreef Chain|Mawreef Chain]] — reef-island chain.
 - [[01 World/Atlas/Regions/Morning Strait|Morning Strait]] — passage between Morning Dew and the mainland.
-- [[01 World/Atlas/Regions/New Anglia|New Anglia]] — region.
 - [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]] — tropical volcanic uplands.
 - [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]] — canal and wetland agricultural basin.
 - [[01 World/Atlas/Regions/Southglass Bay|Southglass Bay]] — southern coastal trade region.

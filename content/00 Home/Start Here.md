@@ -7,7 +7,7 @@ tags:
   - index
   - world
 created: 2026-09-07
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Nautheah Player Guide
@@ -19,7 +19,9 @@ This vault is a high-level, player-safe reference. It contains confirmed setting
 ## Begin here
 
 - [[01 World/World Overview|World Overview]] — major nations, continents, and regions.
-- [[01 World/Places Index|Places Index]] — cities, settlements, and travel regions.
+- [[01 World/Nations/Nations Index|Nations]] — folder navigation from each nation to its regions and settlements.
+- [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] — geographic regions and islands that are not nations.
+- [[01 World/Places Index|Places Index]] — the complete nation-to-landmark hierarchy.
 - [[02 People/People Index|People Index]] — public figures, merchants, and current adventurers.
 - [[03 Factions/Faction Index|Faction Index]] — public institutions, houses, and orders.
 - [[04 Lore/Lore Index|Lore Index]] — calendars, currents, faiths, and old legends.

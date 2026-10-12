@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 # Temple of the Still Palm
 
-[[01 World/Places Index|Places Index]] · [[01 World/Fali-City and New Anglia#New Anglia|New Anglia]] · [[01 World/Brackenford|Brackenford]] · [[03 Factions/Temple of the Still Palm|Monastic order]]
+[[01 World/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Brackenford|Brackenford]] · [[03 Factions/Temple of the Still Palm|Monastic order]]
 
 The Temple of the Still Palm occupies a high cliff among New Anglia's smaller mountain spines and cold, misted valleys. An old foothill and pilgrimage road rises toward it from the Brackenford region, although exact travel times vary with weather and the condition of the mountain paths.
 

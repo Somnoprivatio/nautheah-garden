@@ -11,7 +11,7 @@ updated: 2026-09-10
 
 # Crosswater Reach
 
-[[01 World/Places Index|Places Index]] · [[01 World/Tidemarch|Tidemarch]] · [[01 World/Fali-City and New Anglia#New Anglia|New Anglia]] · [[01 World/Western and Eastern Continents#Whoasis|Whoasis]]
+[[01 World/Places Index|Places Index]] · [[01 World/Tidemarch|Tidemarch]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Western and Eastern Continents#Whoasis|Whoasis]]
 
 The **Crosswater Reach**, also called the **Whoasis Reach** by sailors, is the westbound maritime corridor leaving New Anglia's settled coast. It connects coastal harbors such as Tidemarch with longer routes toward Whoasis.
 

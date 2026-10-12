@@ -1,5 +1,5 @@
 ---
-title: "Great Regions and Islands"
+title: "Prominent Regions and Islands"
 tags:
   - place
   - region
@@ -7,7 +7,7 @@ created: 2026-09-07
 updated: 2026-10-12
 ---
 
-# Great Regions and Islands
+# Prominent Regions and Islands
 
 [[01 World/Places Index|Places Index]]
 

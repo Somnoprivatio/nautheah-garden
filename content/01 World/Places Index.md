@@ -11,7 +11,7 @@ updated: 2026-10-12
 
 # Places Index
 
-[[00 Home/Start Here|Home]] · [[01 World/World Overview|World Overview]] · [[01 World/Atlas Index|Approved Locations Atlas]]
+[[00 Home/Start Here|Home]] · [[01 World/World Overview|World Overview]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] · [[01 World/Atlas Index|Approved Locations Atlas]]
 
 This is the public navigation order for Nautheah:
 
@@ -21,7 +21,7 @@ The supplied world map labels both political areas and geographic regions. Natio
 
 ## Nations
 
-### [[01 World/Fali-City and New Anglia#Fali-City|Fali-City]]
+### [[01 World/Nations/Fali-City/Fali-City Index|Fali-City]]
 
 Fali-City is both a nation and a continental capital.
 
@@ -47,7 +47,7 @@ Fali-City is both a nation and a continental capital.
       - [[01 World/Atlas/Towns/Flintmere|Flintmere]]
         - **Notable locations:** The Slate Mirror (publicly recognized landmark; detailed record not yet published).
 
-### [[01 World/Lakeland|Lakeland]]
+### [[01 World/Nations/Lakeland/Lakeland Index|Lakeland]]
 
 Lakeland is a nation and continent.
 
@@ -75,7 +75,7 @@ Lakeland is a nation and continent.
         - **Notable locations:** The Twelve Gates (publicly recognized landmark; detailed record not yet published).
   - [[01 World/Atlas/Places/Astralythia|Astralythia]] — Lakeland territory with celestial and arcane traditions.
 
-### [[01 World/Atlas/Regions/New Anglia|New Anglia]]
+### [[01 World/Nations/New Anglia/New Anglia Index|New Anglia]]
 
 New Anglia is a nation marked by volcanic mountains, agricultural country, shipbuilding, and decentralized settlements.
 
@@ -91,7 +91,7 @@ New Anglia is a nation marked by volcanic mountains, agricultural country, shipb
   - **Smaller mountain country**
     - **Notable locations:** [[01 World/Temple of the Still Palm|Temple of the Still Palm]].
 
-### [[01 World/Atlas/Places/Simic Isles|Simic Isles]]
+### [[01 World/Nations/Simic Isles/Simic Isles Index|Simic Isles]]
 
 The Simic Isles are a volcanic island nation known for living alchemy, unusual plant life, specialist biological craft, and restricted waters.
 
@@ -101,7 +101,7 @@ The Simic Isles are a volcanic island nation known for living alchemy, unusual p
   - Volcanic island chains and reef waters.
     - **Cities/Provinces:** [[01 World/Atlas/Places/Confluence|Confluence]] — recognized settlement beneath the isles.
 
-### [[01 World/Fisherman's Detriment|Fisherman's Detriment]]
+### [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment Index|Fisherman's Detriment]]
 
 Fisherman's Detriment is a tropical, mountainous island nation and archipelago. A national capital has not been publicly established.
 
@@ -136,7 +136,7 @@ Fisherman's Detriment is a tropical, mountainous island nation and archipelago. 
   - [[01 World/Forever Port|Forever Port]] — major harbor city.
     - **Stores/Shops and notable locations:** [[02 People/Merchants and Proprietors#Keelwhisper|Talontinous Delight]]; Lion's Pride Inn; Forever Port Gazette; Iron Authority harbor facilities.
 
-### [[01 World/Western and Eastern Continents#Whoasis|Whoasis]]
+### [[01 World/Nations/Whoasis/Whoasis Index|Whoasis]]
 
 Whoasis is the western continent-scale political region; a single continental capital has not been publicly established. The map label reads **Whoahasis**; **Whoasis** remains the controlling vault spelling.
 
@@ -162,7 +162,7 @@ Whoasis is the western continent-scale political region; a single continental ca
       - [[01 World/Atlas/Towns/Red-Well Crossing|Red-Well Crossing]]
         - **Notable locations:** The Pilgrim Shade (publicly recognized landmark; detailed record not yet published).
 
-### [[01 World/Western and Eastern Continents#Prominence|Prominence]]
+### [[01 World/Nations/Prominence/Prominence Index|Prominence]]
 
 Prominence is the eastern, war-scarred continent; a single continental capital has not been publicly established.
 

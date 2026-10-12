@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 # Brackenford
 
-[[01 World/Places Index|Places Index]] · [[01 World/Fali-City and New Anglia#New Anglia|New Anglia]] · [[01 World/Tidemarch|Tidemarch]] · [[01 World/Alderhush|Alderhush]]
+[[01 World/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Tidemarch|Tidemarch]] · [[01 World/Alderhush|Alderhush]]
 
 Brackenford is a modest New Anglian market town approximately three days inland from Tidemarch on foot. It stands where the western trade road crosses a broad, slow-moving river before rising into the region's smaller mountain country.
 
