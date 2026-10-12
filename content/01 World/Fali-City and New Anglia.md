@@ -1,15 +1,21 @@
 ---
 title: "Fali-City and New Anglia"
+aliases:
+  - "Fali-City"
+  - "New Anglia"
 tags:
   - place
   - nation
+  - legacy-index
 created: 2026-09-07
-updated: 2026-09-10
+updated: 2026-10-12
 ---
 
 # Fali-City and New Anglia
 
 [[01 World/Places Index|Places Index]]
+
+This legacy combined page is retained for compatibility with older links. **Fali-City** and **New Anglia** are separate nations in the current public register. Use the [[01 World/Places Index|Places Index]] for the nation hierarchy.
 
 ## Fali-City
 
@@ -19,7 +25,7 @@ The city is known for its [[03 Factions/Fali-City Adventuring Academy|Adventurin
 
 ## New Anglia
 
-New Anglia is an agricultural and trade region under Fali-City's influence. Its settlements are decentralized, and its landscape is tied to large volcanic mountains. The region supplies farms, trades, quarry work, smithing, and coastal labor.
+New Anglia is a separate nation of agricultural and trade settlements tied to large volcanic mountains. Its settlements are decentralized, and its coasts support shipbuilding and maritime labor. The nation supplies farms, quarry work, smithing, and finished goods to regional trade routes.
 
 New Anglia is presently the center of the [[05 Public Records/Issues/Earthheart 8, Year 513 - Vorkharis Takes the Living|Gazette's reports of disappearances and forced labor]]. Those claims are serious public allegations, but the exact camps, chain of command, and number of captives remain unproven.
 

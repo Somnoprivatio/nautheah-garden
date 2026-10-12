@@ -17,11 +17,11 @@ This is the public navigation order for Nautheah:
 
 **Nations → Capitals → Regions → Cities/Provinces → Stores, shops, notable locations, and historical landmarks.**
 
-The linked summary pages remain the public records of each place. This index supplies the consistent hierarchy without exposing GM-only notes.
+The supplied world map labels both political areas and geographic regions. Nation-scale political entries appear under **Nations** below; prominent geographic regions and islands are separated at the end of this index. The linked summary pages remain the public records of each place.
 
 ## Nations
 
-### [[01 World/Fali-City and New Anglia#Fali-City|Fali-City and New Anglia]]
+### [[01 World/Fali-City and New Anglia#Fali-City|Fali-City]]
 
 Fali-City is both a nation and a continental capital.
 
@@ -34,12 +34,6 @@ Fali-City is both a nation and a continental capital.
         - **Notable locations:** The Turning Yard (publicly recognized landmark; detailed record not yet published).
       - [[01 World/Atlas/Towns/Lanternreach|Lanternreach]]
         - **Notable locations:** The Lantern Commons (publicly recognized landmark; detailed record not yet published).
-  - [[01 World/Atlas/Regions/New Anglia|New Anglia]]
-    - **Cities/Provinces**
-      - [[01 World/Atlas/Towns/Brackenford|Brackenford]]
-        - **Notable locations:** [[01 World/Alderhush|Alderhush]].
-      - [[01 World/Atlas/Towns/Tidemarch|Tidemarch]] — western-border shipbuilding town.
-    - **Notable locations:** [[01 World/Temple of the Still Palm|Temple of the Still Palm]]; [[01 World/Crosswater Reach|Crosswater Reach]].
   - [[01 World/Atlas/Regions/Southglass Bay|Southglass Bay]]
     - **Cities/Provinces**
       - [[01 World/Atlas/Towns/Bayvault|Bayvault]]
@@ -81,6 +75,32 @@ Lakeland is a nation and continent.
         - **Notable locations:** The Twelve Gates (publicly recognized landmark; detailed record not yet published).
   - [[01 World/Atlas/Places/Astralythia|Astralythia]] — Lakeland territory with celestial and arcane traditions.
 
+### [[01 World/Atlas/Regions/New Anglia|New Anglia]]
+
+New Anglia is a nation marked by volcanic mountains, agricultural country, shipbuilding, and decentralized settlements.
+
+- **Capitals**
+  - No single national capital is currently listed in the public register.
+- **Regions**
+  - **Western settled coast**
+    - **Cities/Provinces:** [[01 World/Atlas/Towns/Tidemarch|Tidemarch]] — shipbuilding town and westbound harbor.
+    - **Notable locations:** [[01 World/Crosswater Reach|Crosswater Reach]].
+  - **Inland market country**
+    - **Cities/Provinces:** [[01 World/Atlas/Towns/Brackenford|Brackenford]].
+    - **Notable locations:** [[01 World/Alderhush|Alderhush]].
+  - **Smaller mountain country**
+    - **Notable locations:** [[01 World/Temple of the Still Palm|Temple of the Still Palm]].
+
+### [[01 World/Atlas/Places/Simic Isles|Simic Isles]]
+
+The Simic Isles are a volcanic island nation known for living alchemy, unusual plant life, specialist biological craft, and restricted waters.
+
+- **Capitals**
+  - No single national capital is currently listed in the public register.
+- **Regions**
+  - Volcanic island chains and reef waters.
+    - **Cities/Provinces:** [[01 World/Atlas/Places/Confluence|Confluence]] — recognized settlement beneath the isles.
+
 ### [[01 World/Fisherman's Detriment|Fisherman's Detriment]]
 
 Fisherman's Detriment is a tropical, mountainous island nation and archipelago. A national capital has not been publicly established.
@@ -118,7 +138,7 @@ Fisherman's Detriment is a tropical, mountainous island nation and archipelago. 
 
 ### [[01 World/Western and Eastern Continents#Whoasis|Whoasis]]
 
-Whoasis is the western continent; a single continental capital has not been publicly established.
+Whoasis is the western continent-scale political region; a single continental capital has not been publicly established. The map label reads **Whoahasis**; **Whoasis** remains the controlling vault spelling.
 
 - **Capitals**
   - No capital is currently listed in the public register.
@@ -168,16 +188,23 @@ Prominence is the eastern, war-scarred continent; a single continental capital h
       - [[01 World/Atlas/Towns/Skyrake|Skyrake]]
         - **Notable locations:** The Kite Beacon (publicly recognized landmark; detailed record not yet published).
 
-## Major regions and islands without a nation-level entry
+## Prominent regions and islands
 
-- [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]]
+- [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] — map label **Mount Nevaeh**; mountain region.
   - **Cities/Provinces:** [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]].
-- [[01 World/Atlas/Places/Simic Isles|Simic Isles]]
-  - **Cities/Provinces:** [[01 World/Atlas/Places/Confluence|Confluence]].
 - [[01 World/Atlas/Places/Selanora's Island|Selanora's Island]] — forested island realm.
-- [[01 World/Atlas/Places/Suckstuck|Suckstuck]] — half-continent-scale swamp region.
+- [[01 World/Atlas/Places/Suckstuck|Suckstuck]] — map label **Suckstuck Swamp**; half-continent-scale swamp region.
 - [[01 World/Atlas/Places/Uninhabited Island|Uninhabited Island]] — large, incompletely explored island.
 - [[01 World/Atlas/Places/Vortex of Mist|Vortex of Mist]] — region of mana storms and extreme magical fluctuations.
+
+## Map-label continuity
+
+- **Lakeland City** on the map is the capital of the nation of [[01 World/Lakeland|Lakeland]], not a separate nation.
+- **New Anglia** is a separate nation. The older combined Fali-City/New Anglia page is retained for link compatibility; the New Anglia nation record is the primary classification.
+- **Simic Isles** is a nation of volcanic islands. Its public record is linked under **Nations**, not under prominent regions.
+- **Whoahasis** on the map is the older/map spelling of [[01 World/Western and Eastern Continents#Whoasis|Whoasis]].
+- **Mount Nevaeh** on the map corresponds to the vault's [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] record.
+- **Suckstuck Swamp** on the map corresponds to the vault's [[01 World/Atlas/Places/Suckstuck|Suckstuck]] record.
 
 ## Navigation note
 

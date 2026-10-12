@@ -4,26 +4,26 @@ tags:
   - place
   - region
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-12
 ---
 
 # Great Regions and Islands
 
 [[01 World/Places Index|Places Index]]
 
-## Mount Neveah
+## Mount Neveah (map label: Mount Nevaeh)
 
 A high mountain region north of Prominence, known for rivers, floating islands, druidic traditions, and celestial influence. Public records do not yet confirm a named port city there.
 
-## Simic Isles
+## Simic Isles classification
 
-A volcanic island region known for altered life, unusual plants, underwater settlements, restricted waters, and snow at higher elevations. Simic Hybrid refugees from the isles contributed engineering knowledge to Elpa.
+The [[01 World/Atlas/Places/Simic Isles|Simic Isles]] are a nation, not a prominent region in this index. They are a volcanic island nation known for altered life, unusual plants, underwater settlements, restricted waters, and snow at higher elevations. Simic Hybrid refugees from the isles contributed engineering knowledge to Elpa.
 
 ## Selanora's Island
 
 A magical, forested archipelago near Mount Neveah, associated with moonlight, celestial magic, druids, and astrologers. Travel rumors often connect its routes to lunar phases. See [[04 Lore/Death of Selanora|Death of Selanora]].
 
-## Suckstuck
+## Suckstuck (map label: Suckstuck Swamp)
 
 A swamp region approximately half a continent in scale, lying between Lakeland City and Fisherman's Detriment. Public records do not yet settle its internal peoples or borders.
 

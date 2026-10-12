@@ -14,6 +14,8 @@ updated: 2026-10-11
 
 Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
 
+The public register does not designate a national capital. [[01 World/Forever Port|Forever Port]] is a major harbor city, but it is not currently recorded as the nation's capital.
+
 ## Elpa, City of the Two Tides
 
 Elpa is a city built both above and beneath the water. Triton origins and later Simic refugee engineering helped create a settlement that can serve terrestrial and aquatic residents. Its public shops include:
