@@ -5,14 +5,14 @@ tags:
   - nation
   - maritime
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-11
 ---
 
 # Fisherman's Detriment
 
 [[01 World/Places Index|Places Index]]
 
-Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Fisherman's Detriment Port Authority|Port Authority]] maintains a visible maritime presence.
+Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
 
 ## Elpa, City of the Two Tides
 
@@ -25,6 +25,10 @@ Elpa is a city built both above and beneath the water. Triton origins and later 
 ## Morning Dew
 
 Morning Dew is a settlement within Fisherman's Detriment. Farmers and sailors share a community shaped by the sea and devotion to [[04 Lore/Faiths of Nautheah#Azul|Azul]]. The exact population and civic structure are not yet part of the public register.
+
+## Morning Strait
+
+The [[01 World/Morning Strait|Morning Strait]] is the recognized water passage between Morning Dew's island and the mainland. Its named approaches are [[01 World/Morning Strait#Dewbreak Anchorage|Dewbreak Anchorage]] and [[01 World/Morning Strait#Straitwatch Quay|Straitwatch Quay]]. Local officials, hazards, and harbor customs remain open for future exploration.
 
 ## Forever Port
 

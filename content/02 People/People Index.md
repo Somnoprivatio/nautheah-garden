@@ -4,8 +4,7 @@ tags:
   - people
   - index
 created: 2026-09-07
-updated: 2026-09-23
-updated: 2026-09-07
+updated: 2026-10-11
 ---
 
 # People Index
@@ -22,6 +21,7 @@ updated: 2026-09-07
 
 ## Public officials and world figures
 
+- [[02 People/Civic Figureheads|Regional and Civic Figureheads]] — public-facing local officials and recognized community representatives.
 - [[02 People/Civic and World Figures#Leroy Jenk|Leroy Jenk]] — captain in Elpa's main port guard and member of House Jenk.
 - [[02 People/Civic and World Figures#Elder Sylvanos|Elder Sylvanos]] — known elder associated with the Circle of the Moon.
 - [[02 People/Civic and World Figures#Sylvaris Moonshadow|Sylvaris Moonshadow]] — known member of the Moonshadow family and Circle tradition.
@@ -29,6 +29,9 @@ updated: 2026-09-07
 - [[02 People/Nana Mori|Nana Mori]] — receptionist and official contact at the Fali-City Adventuring Academy.
 - [[02 People/Aeris Moonshadow|Aeris Moonshadow]] — druid and possible Circle of the Moon contact.
 - [[02 People/Vorkesh Sorn|Vorkesh Sorn]] — head of Forever Port's Iron Authority naval military.
+- [[02 People/Captain Maelin Veyr|Captain Maelin Veyr]] — captain of the Iron Calamity.
+- [[02 People/Lieutenant Kaharvesh|Lieutenant Kaharvesh]] — Iron Authority officer aboard the Iron Calamity.
+- [[02 People/Israel Hands|Israel Hands]] — sailor associated with Elpa's guard and the Queen Anne's Revenge tradition.
 
 ## Northern Current Carnies investigation
 

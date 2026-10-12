@@ -4,7 +4,7 @@ tags:
   - lore
   - index
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-11
 ---
 
 # Lore Index
@@ -17,5 +17,6 @@ updated: 2026-09-07
 - [[04 Lore/Selanora Calendar|Selanora Calendar]] — shared calendar and lunar structure.
 - [[04 Lore/Ocean Currents|Ocean Currents]] — Northern and Southern current systems.
 - [[04 Lore/World History|World History]] — a compact, public chronology.
+- [[04 Lore/Ship and Property Bastion Capacity Guide|Ship and Property Bastion Capacity Guide]] — shared limits for Bastion facilities aboard ships and within land-based properties.
 
 Legend pages preserve researchable stories without asserting that every poetic detail is literal history.

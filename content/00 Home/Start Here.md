@@ -7,7 +7,7 @@ tags:
   - index
   - world
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-11
 ---
 
 # Nautheah Player Guide
@@ -23,6 +23,7 @@ This vault is a high-level, player-safe reference. It contains confirmed setting
 - [[02 People/People Index|People Index]] — public figures, merchants, and current adventurers.
 - [[03 Factions/Faction Index|Faction Index]] — public institutions, houses, and orders.
 - [[04 Lore/Lore Index|Lore Index]] — calendars, currents, faiths, and old legends.
+- [[04 Lore/Ship and Property Bastion Capacity Guide|House Rules]] — shared ship and property Bastion facility capacities.
 - [[05 Public Records/Public Records Index|Public Records]] — news, completed commissions, and active warnings.
 - [[06 Campaign Lore/Northern Current Carnies/Campaign Overview|Northern Current Carnies]] — current-campaign knowledge.
 - [[00 Home/Reader Guide|Reader Guide]] — how certainty and spoilers are handled.

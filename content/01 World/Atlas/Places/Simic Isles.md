@@ -1,0 +1,23 @@
+---
+title: "Simic Isles"
+tags:
+  - place
+  - island-region
+  - public-record
+created: 2026-10-11
+updated: 2026-10-11
+---
+
+# Simic Isles
+
+[[01 World/Atlas Index|Approved Locations Atlas]] · [[01 World/Places Index|Places Index]]
+
+The Simic Isles are a volcanic island region associated with living alchemy, unusual plant life, and specialist biological craft. Their reefs and waters support distinctive communities, while the interior islands are shaped by heat, mineral wealth, and rapid ecological change.
+
+The public record recognizes the isles as a place of advanced experimentation and strong maritime traditions. Specific communities may restrict access to their waters or knowledge.
+
+## Public notes
+
+- **Environment:** volcanic islands, reefs, and warm coastal waters.
+- **Known exports:** specialist craft, alchemical knowledge, and unusual living materials.
+- **Known connection:** [[01 World/Atlas/Places/Confluence|Confluence]].

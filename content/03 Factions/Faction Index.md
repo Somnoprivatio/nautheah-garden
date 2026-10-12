@@ -4,15 +4,14 @@ tags:
   - faction
   - index
 created: 2026-09-07
-updated: 2026-09-23
+updated: 2026-10-11
 ---
 
 # Faction Index
 
 [[00 Home/Start Here|Home]]
 
-- [[03 Factions/Fisherman's Detriment Port Authority|Fisherman's Detriment Port Authority]] — visible maritime authority.
-- [[03 Factions/Iron Authority|Iron Authority]] — Forever Port's naval military.
+- [[03 Factions/Iron Authority|Iron Authority]] — Forever Port's naval military, also recorded regionally as the Fisherman's Detriment Port Authority.
 - [[03 Factions/Houses Jenk and Shellstitch#House Jenk|House Jenk]] — Elpa noble house.
 - [[03 Factions/Houses Jenk and Shellstitch#House Shellstitch|House Shellstitch]] — prominent Elpa family.
 - [[03 Factions/Fali-City Adventuring Academy|Fali-City Adventuring Academy]] — public school for adventurers.

@@ -6,12 +6,12 @@ tags:
   - place
   - index
 created: 2026-09-07
-updated: 2026-09-10
+updated: 2026-10-11
 ---
 
 # Places Index
 
-[[00 Home/Start Here|Home]] · [[01 World/World Overview|World Overview]]
+[[00 Home/Start Here|Home]] · [[01 World/World Overview|World Overview]] · [[01 World/Atlas Index|Approved Locations Atlas]]
 
 ## Nations, continents, and capitals
 
@@ -28,6 +28,16 @@ updated: 2026-09-10
 - [[01 World/Fisherman's Detriment#Morning Dew|Morning Dew]]
 - [[01 World/Lakeland#Lakeland City|Lakeland City]]
 - [[01 World/Tidemarch|Tidemarch]] — shipbuilding town on New Anglia's western border coast.
+
+## Approved major regions and islands
+
+- [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] and [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]]
+- [[01 World/Atlas/Places/Simic Isles|Simic Isles]] and [[01 World/Atlas/Places/Confluence|Confluence]]
+- [[01 World/Atlas/Places/Selanora's Island|Selanora's Island]]
+- [[01 World/Atlas/Places/Suckstuck|Suckstuck]]
+- [[01 World/Atlas/Places/Uninhabited Island|Uninhabited Island]]
+- [[01 World/Atlas/Places/Vortex of Mist|Vortex of Mist]]
+- [[01 World/Atlas/Places/Astralythia|Astralythia]]
 - [[01 World/Brackenford|Brackenford]] — inland market town on the western trade and foothill roads.
 
 ## Major regions and islands
@@ -43,3 +53,4 @@ updated: 2026-09-10
 - [[01 World/Alderhush|Alderhush]] — damp woodland north of Brackenford.
 - [[01 World/Crosswater Reach|Crosswater Reach]] — Whoasis-facing maritime route west of New Anglia.
 - [[01 World/Temple of the Still Palm|Temple of the Still Palm]] — old mountain monastery in New Anglia.
+- [[01 World/Morning Strait|Morning Strait]] — named coastal passage between Morning Dew and the Fisherman's Detriment mainland.

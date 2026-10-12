@@ -8,12 +8,12 @@ tags:
   - fishermans-detriment
   - public-record
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-11
 ---
 
 # Forever Port
 
-[[01 World/Places Index|Places Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]] · [[03 Factions/Fisherman's Detriment Port Authority|Fisherman's Detriment Port Authority]] · [[03 Factions/Iron Authority|Iron Authority]] · [[05 Public Records/Forever Port Gazette|Forever Port Gazette]]
+[[01 World/Places Index|Places Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]] · [[03 Factions/Iron Authority|Iron Authority]] · [[05 Public Records/Forever Port Gazette|Forever Port Gazette]]
 
 Forever Port is a major harbor city within **Fisherman's Detriment**. It never closes: lighthouses remain lit, vessels move through the harbor at all hours, and current records describe it as the world's busiest center of commerce.
 
@@ -21,7 +21,7 @@ Forever Port is a major harbor city within **Fisherman's Detriment**. It never c
 
 ### Harbor and lighthouse ring
 
-The harbor remains active day and night. The **Fisherman's Detriment Port Authority** patrols the surrounding waters and performs visible security, inspection, and port-guard functions.
+The harbor remains active day and night. The **Iron Authority**, called the Fisherman's Detriment Port Authority in regional records, patrols the surrounding waters and performs visible security, inspection, and port-guard functions.
 
 The [[03 Factions/Iron Authority|Iron Authority]] is Forever Port's naval military. It operates under [[02 People/Vorkesh Sorn|Vorkesh Sorn]] and provides the city's dedicated naval defense and maritime enforcement.
 
