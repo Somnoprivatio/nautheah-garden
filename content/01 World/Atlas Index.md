@@ -38,6 +38,7 @@ This atlas contains high-level public summaries for approved Nautheah regions an
 - [[01 World/Atlas/Regions/Highroad Crown|Highroad Crown]] — central trade and academy hinterland.
 - [[01 World/Atlas/Regions/Lantern Shoals|Lantern Shoals]] — night-sailing shoal district.
 - [[01 World/Atlas/Regions/Mawreef Chain|Mawreef Chain]] — reef-island chain.
+- [[01 World/Atlas/Regions/Morning Strait|Morning Strait]] — passage between Morning Dew and the mainland.
 - [[01 World/Atlas/Regions/New Anglia|New Anglia]] — region.
 - [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]] — tropical volcanic uplands.
 - [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]] — canal and wetland agricultural basin.
