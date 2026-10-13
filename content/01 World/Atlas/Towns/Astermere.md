@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Astermere
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Starfen Plateau|Starfen Plateau]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Starfen Plateau|Starfen Plateau]]
 
 **Astermere** is a publicly recognized Town within [[01 World/Atlas/Regions/Starfen Plateau|Starfen Plateau]].
 It is known for observatory town and celestial almanacs.

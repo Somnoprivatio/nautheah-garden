@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Steamroot
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]]
 
 **Steamroot** is a publicly recognized Town within [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]].
 It is known for volcanic springs and herbal distillation.

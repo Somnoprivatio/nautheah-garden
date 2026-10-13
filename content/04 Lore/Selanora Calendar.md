@@ -63,7 +63,7 @@ The natural year passes through **Spring, Summer, Autumn, and Winter**. Calendar
 3. **Hunters Halo** — the full-moon point.
 4. **Moonshadow Ascension** — the fading or waning passage.
 
-Eclipses are considered rare. Lunar phases remain culturally important to sailors, Selanora traditions, and stories surrounding [[01 World/Great Regions and Islands#Selanora's Island|Selanora's Island]].
+Eclipses are considered rare. Lunar phases remain culturally important to sailors, Selanora traditions, and stories surrounding [[01 World/Prominent Regions/Prominent Regions and Islands#Selanora's Island|Selanora's Island]].
 
 ## Celestial frame
 
@@ -78,3 +78,4 @@ Calendar observers track **Nautheah**, its moon **Selanora**, the sun **Solanus*
 | Oceans and Fisherman's Detriment | Hot and humid throughout the year, with frequent rain | 11–13 hours |
 
 Public records preserve dates exactly as printed rather than silently converting them into another calendar form.
+

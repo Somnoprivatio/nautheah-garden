@@ -18,7 +18,7 @@ This page collects the active party's public-facing mission leads and locations 
 
 - **Vortex of Mist / Stormpeak:** The opening mana-storm mutiny occurred near this dangerous magical region.
 - **Elpa, City of the Two Tides:** The party provisioned, commissioned equipment, resolved the Leroy Jenk obligation, and departed aboard the Drowning Promise.
-- **Forever Port:** The party arrived after a three-day voyage and visited [[01 World/Forever Port#Talontinous Delight|Talontinous Delight]].
+- **Forever Port:** The party arrived after a three-day voyage and visited [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port#Talontinous Delight|Talontinous Delight]].
 - **Talontinous Delight:** The party completed Keelwhisper's contact exchange, arranged Maclear's delayed cargo delivery, and received leads concerning Selanora's Seeds.
 - **Forever Port investigation sites:** The party later investigated an alley ambush, arranged care for rescued captives, and followed an academy contact lead.
 
@@ -51,3 +51,4 @@ The party's open lines of inquiry include the analyzed Rod of Encode Thoughts, t
 This page records travel, mission leads, and public or party-shared knowledge. It does not publish private character memories, hidden item identities, unplayed rescue outcomes, or unapproved commander biographies.
 
 **Tags:** #campaign/northern-current-carnies #index #public-record
+

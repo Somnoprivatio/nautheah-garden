@@ -11,7 +11,7 @@ updated: 2026-10-12
 
 # Nations
 
-[[01 World/Places Index|Places Index]] · [[01 World/World Overview|World Overview]]
+[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/00 Indexes/World Overview|World Overview]]
 
 Use this folder to navigate the public geography hierarchy: **Nation → Capital → Region → City/Province → Store, shop, notable location, or landmark**. Canonical descriptive records remain linked from each index so existing Obsidian references continue to work.
 
@@ -28,3 +28,4 @@ Use this folder to navigate the public geography hierarchy: **Nation → Capital
 ## Prominent regions and islands
 
 Geographic regions and islands that are not nations are organized in [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]].
+

@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Deepbell
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Mawreef Chain|Mawreef Chain]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Mawreef Chain|Mawreef Chain]]
 
 **Deepbell** is a publicly recognized Town within [[01 World/Atlas/Regions/Mawreef Chain|Mawreef Chain]].
 It is known for triton bell towers and underwater wayfinding.

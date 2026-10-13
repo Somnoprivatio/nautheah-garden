@@ -12,7 +12,7 @@ updated: 2026-10-12
 
 # Simic Isles
 
-[[01 World/Nations/Nations Index|Nations]] · [[01 World/Places Index|Places Index]]
+[[01 World/Nations/Nations Index|Nations]] · [[01 World/00 Indexes/Places Index|Places Index]]
 
 Canonical record: [[01 World/Atlas/Places/Simic Isles|Simic Isles]].
 
@@ -25,3 +25,4 @@ The Simic Isles are a volcanic island nation known for living alchemy, reef comm
 ## Regions and settlements
 
 - [[01 World/Nations/Simic Isles/Regions/Simic Isles Regions Index|Simic Isles Regions]]
+

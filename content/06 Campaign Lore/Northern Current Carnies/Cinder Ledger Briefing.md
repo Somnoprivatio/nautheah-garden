@@ -12,7 +12,7 @@ updated: 2026-09-23
 
 # Cinder Ledger Briefing
 
-[[06 Campaign Lore/Northern Current Carnies/Campaign Overview|Campaign Overview]] · [[02 People/Black Caesar|Black Caesar]] · [[02 People/Madruk Inkmaul|Madruk Inkmaul]] · [[02 People/Vorkesh Sorn|Vorkesh Sorn]] · [[02 People/Vorkharis|Vorkharis]] · [[01 World/Forever Port|Forever Port]]
+[[06 Campaign Lore/Northern Current Carnies/Campaign Overview|Campaign Overview]] · [[02 People/Black Caesar|Black Caesar]] · [[02 People/Madruk Inkmaul|Madruk Inkmaul]] · [[02 People/Vorkesh Sorn|Vorkesh Sorn]] · [[02 People/Vorkharis|Vorkharis]] · [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]]
 
 The **Cinder Ledger** is an unresolved vessel lead in the Northern Current Carnies investigation. Current party records associate the ship with **Black Caesar** as captain and **Madruk Inkmaul** as first mate and arcane scribe.
 
@@ -37,3 +37,4 @@ The public record does not confirm the Cinder Ledger's full command chain. Futur
 - Keep the Selanora seed inquiry separate from the Vorkharis investigation unless the party obtains evidence connecting them.
 
 **Tags:** #campaign/northern-current-carnies #investigation #public-record
+

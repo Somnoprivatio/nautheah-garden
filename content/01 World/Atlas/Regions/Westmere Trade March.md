@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Westmere Trade March
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Lakeland|Lakeland]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Nations/Lakeland/Lakeland|Lakeland]]
 
-**Westmere Trade March** is a publicly recognized Canal frontier and mercantile march within [[01 World/Lakeland|Lakeland]].
+**Westmere Trade March** is a publicly recognized Canal frontier and mercantile march within [[01 World/Nations/Lakeland/Lakeland|Lakeland]].
 It is known for locks, toll roads, and neutral commerce.
 Approximate population in the current gazetteer: **47000**.
 Magic access is described publicly as **abundant around canals and cities; scholarly and industrial magic is widely traded**.

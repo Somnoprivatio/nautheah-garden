@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Red-Well Crossing
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]]
 
 **Red-Well Crossing** is a publicly recognized Town within [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]].
 It is known for waystation hospitality and guarded wellhouses.

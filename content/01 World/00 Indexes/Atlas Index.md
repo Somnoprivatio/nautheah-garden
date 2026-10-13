@@ -5,12 +5,12 @@ tags:
   - index
   - public-record
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Approved Locations Atlas
 
-[[00 Home/Start Here|Home]] · [[01 World/Places Index|Places Index]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]]
+[[00 Home/Start Here|Home]] · [[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]]
 
 This atlas contains high-level public summaries for approved Nautheah regions and towns. Private officials, GM-only structures, and unresolved adventure hooks are intentionally omitted.
 
@@ -20,6 +20,8 @@ This atlas contains high-level public summaries for approved Nautheah regions an
 - [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]] — Mount Neveah's river-and-sea port.
 - [[01 World/Atlas/Places/Confluence|Confluence]] — a recognized settlement beneath the Simic Isles.
 - [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] — northern mountain region and source of major waterways.
+  - [[01 World/Prominent Regions/Mount Neveah/Thunderrock/Thunderrock|Thunderrock]] — volcanic steampunk settlement.
+  - [[01 World/Prominent Regions/Mount Neveah/Swaying Peaks Brotherhood/Floating Home Temple|Swaying Peaks Brotherhood Floating Home Temple]] — floating Drunken Fist monastery.
 - [[01 World/Atlas/Places/Prominence|Prominence]] — war-scarred eastern continent.
 - [[01 World/Atlas/Places/Selanora's Island|Selanora's Island]] — forested island realm of lunar tradition.
 - [[01 World/Atlas/Places/Simic Isles|Simic Isles]] — volcanic island nation shaped by living alchemy.
@@ -81,3 +83,4 @@ This atlas contains high-level public summaries for approved Nautheah regions an
 - [[01 World/Atlas/Towns/Steamroot|Steamroot]] — town.
 - [[01 World/Atlas/Towns/Tidemarch|Tidemarch]] — coastal shipbuilding town.
 - [[01 World/Atlas/Towns/Trucehold|Trucehold]] — town.
+

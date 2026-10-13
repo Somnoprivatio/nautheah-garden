@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Glassmarch Coast
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Western and Eastern Continents#Prominence|Prominence]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Continents/Western and Eastern Continents#Prominence|Prominence]]
 
-**Glassmarch Coast** is a publicly recognized Fortified tropical coast within [[01 World/Western and Eastern Continents#Prominence|Prominence]].
+**Glassmarch Coast** is a publicly recognized Fortified tropical coast within [[01 World/Continents/Western and Eastern Continents#Prominence|Prominence]].
 It is known for sea walls, privateers, and divided coastal allegiance.
 Approximate population in the current gazetteer: **44000**.
 Magic access is described publicly as **unstable and scarce; magic is feared, weaponized, or warped by occult forces**.

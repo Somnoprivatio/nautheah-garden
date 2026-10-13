@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Starfen Plateau
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Lakeland|Lakeland]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Nations/Lakeland/Lakeland|Lakeland]]
 
-**Starfen Plateau** is a publicly recognized High grassland and observatory district within [[01 World/Lakeland|Lakeland]].
+**Starfen Plateau** is a publicly recognized High grassland and observatory district within [[01 World/Nations/Lakeland/Lakeland|Lakeland]].
 It is known for astral study, wind farms, and sky-facing civic life.
 Approximate population in the current gazetteer: **29000**.
 Magic access is described publicly as **abundant around canals and cities; scholarly and industrial magic is widely traded**.

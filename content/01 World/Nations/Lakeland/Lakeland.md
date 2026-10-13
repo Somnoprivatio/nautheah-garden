@@ -9,7 +9,7 @@ updated: 2026-09-07
 
 # Lakeland
 
-[[01 World/Places Index|Places Index]]
+[[01 World/00 Indexes/Places Index|Places Index]]
 
 Lakeland is a nation and continent organized around fertile country, lakes, and navigable waterways. Its capital, **Lakeland City**, is also the continent's capital.
 
@@ -22,3 +22,4 @@ Past public commissions in and around the capital include the recovery of a miss
 ## Astralythia
 
 Astralythia is a recognized territory within the nation and continent of Lakeland. Its exact borders, government, settlements, and cultural institutions have not yet been established in the public record.
+

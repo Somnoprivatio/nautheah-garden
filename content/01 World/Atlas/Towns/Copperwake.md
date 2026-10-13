@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Copperwake
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Westmere Trade March|Westmere Trade March]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Westmere Trade March|Westmere Trade March]]
 
 **Copperwake** is a publicly recognized Town within [[01 World/Atlas/Regions/Westmere Trade March|Westmere Trade March]].
 It is known for metalwork, barges, and practical invention.

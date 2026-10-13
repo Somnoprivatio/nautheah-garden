@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Ashgate
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Embercrater March|Embercrater March]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Embercrater March|Embercrater March]]
 
 **Ashgate** is a publicly recognized Town within [[01 World/Atlas/Regions/Embercrater March|Embercrater March]].
 It is known for frontier foundries and guarded ore trains.

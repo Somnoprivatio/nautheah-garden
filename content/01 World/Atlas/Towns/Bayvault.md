@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Bayvault
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Southglass Bay|Southglass Bay]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Southglass Bay|Southglass Bay]]
 
 **Bayvault** is a publicly recognized Town within [[01 World/Atlas/Regions/Southglass Bay|Southglass Bay]].
 It is known for bonded warehouses and honest ledgers.

@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Breakwater
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Glassmarch Coast|Glassmarch Coast]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Glassmarch Coast|Glassmarch Coast]]
 
 **Breakwater** is a publicly recognized Town within [[01 World/Atlas/Regions/Glassmarch Coast|Glassmarch Coast]].
 It is known for naval repair and uneasy ceasefires.

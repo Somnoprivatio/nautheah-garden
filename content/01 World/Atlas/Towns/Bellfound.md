@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Bellfound
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]]
 
 **Bellfound** is a publicly recognized Town within [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]].
 It is known for repaired foundries and warning bells.

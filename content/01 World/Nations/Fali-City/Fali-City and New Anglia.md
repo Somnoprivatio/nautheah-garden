@@ -13,9 +13,9 @@ updated: 2026-10-12
 
 # Fali-City and New Anglia
 
-[[01 World/Places Index|Places Index]]
+[[01 World/00 Indexes/Places Index|Places Index]]
 
-This legacy combined page is retained for compatibility with older links. **Fali-City** and **New Anglia** are separate nations in the current public register. Use the [[01 World/Places Index|Places Index]] for the nation hierarchy.
+This legacy combined page is retained for compatibility with older links. **Fali-City** and **New Anglia** are separate nations in the current public register. Use the [[01 World/00 Indexes/Places Index|Places Index]] for the nation hierarchy.
 
 ## Fali-City
 
@@ -31,10 +31,11 @@ New Anglia is presently the center of the [[05 Public Records/Issues/Earthheart 
 
 ### Western border coast
 
-[[01 World/Tidemarch|Tidemarch]] is a major working harbor on New Anglia's westernmost settled coast. It faces the [[01 World/Crosswater Reach|Crosswater Reach]], a westbound maritime corridor commonly called the Whoasis Reach. The local phrase **border coast** refers to the edge of dependable New Anglian settlement and maritime authority rather than a literal land border.
+[[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch|Tidemarch]] is a major working harbor on New Anglia's westernmost settled coast. It faces the [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Crosswater Reach|Crosswater Reach]], a westbound maritime corridor commonly called the Whoasis Reach. The local phrase **border coast** refers to the edge of dependable New Anglian settlement and maritime authority rather than a literal land border.
 
-Approximately three days inland from Tidemarch, [[01 World/Brackenford|Brackenford]] serves the farm, river, and foothill roads. The nearby [[01 World/Alderhush|Alderhush]] is known for its close-growing trees, shallow streams, and abandoned charcoal clearings.
+Approximately three days inland from Tidemarch, [[01 World/Nations/New Anglia/Regions/Inland Market Country/Brackenford|Brackenford]] serves the farm, river, and foothill roads. The nearby [[01 World/Nations/New Anglia/Regions/Inland Market Country/Alderhush|Alderhush]] is known for its close-growing trees, shallow streams, and abandoned charcoal clearings.
 
 ### Smaller mountain country
 
-Beyond Brackenford, older mountain roads climb toward the [[01 World/Temple of the Still Palm|Temple of the Still Palm]]. Stone terraces, prayer arches, high bridges, hanging bells, and cultivated water gardens mark the surrounding slopes.
+Beyond Brackenford, older mountain roads climb toward the [[01 World/Nations/New Anglia/Regions/Smaller Mountain Country/Temple of the Still Palm|Temple of the Still Palm]]. Stone terraces, prayer arches, high bridges, hanging bells, and cultivated water gardens mark the surrounding slopes.
+

@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Tidemarch
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]]
 
 **Tidemarch** is a publicly recognized Coastal shipbuilding town within [[01 World/Atlas/Regions/New Anglia|New Anglia]].
 

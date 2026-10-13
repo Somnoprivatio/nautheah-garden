@@ -12,7 +12,7 @@ updated: 2026-10-11
 
 # Regional and Civic Figureheads
 
-[[02 People/People Index|People Index]] · [[01 World/Atlas Index|Approved Locations Atlas]]
+[[02 People/People Index|People Index]] · [[01 World/00 Indexes/Atlas Index|Approved Locations Atlas]]
 
 This public index records the names and civic roles attached to approved Nautheah regions and settlements. These are public-facing identities: travelers may know the office or title even when a figurehead's deeper history, politics, and personal connections are not yet established. Titles and local details may be refined as the setting develops.
 
@@ -20,7 +20,7 @@ This public index records the names and civic roles attached to approved Nauthea
 
 | Person | Public role | Scope |
 | --- | --- | --- |
-| The Continental Provost | Rotating liaison among nations | [[01 World/Fali-City and New Anglia|Fali-City and New Anglia]] |
+| The Continental Provost | Rotating liaison among nations | [[01 World/Nations/Fali-City/Fali-City and New Anglia|Fali-City and New Anglia]] |
 | Provost Halwen Rusk | Road and academy liaison | [[01 World/Atlas/Regions/Highroad Crown|Highroad Crown]] |
 | Master Tovin Gearwright | Guild tutor and safety inspector | [[01 World/Atlas/Towns/Gearford|Gearford]] |
 | Mistress Della Voss | Host of the lantern commons | [[01 World/Atlas/Towns/Lanternreach|Lanternreach]] |
@@ -49,7 +49,7 @@ This public index records the names and civic roles attached to approved Nauthea
 
 | Person | Public role | Scope |
 | --- | --- | --- |
-| The Lakeward Convener | Rotating liaison among nations | [[01 World/Lakeland|Lakeland]] |
+| The Lakeward Convener | Rotating liaison among nations | [[01 World/Nations/Lakeland/Lakeland|Lakeland]] |
 | Canal-Mother Ilyse Reed | Senior water judge | [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]] |
 | Sister Maelin Willow | Caretaker of the nine spring shrines | [[01 World/Atlas/Towns/Ninewillow|Ninewillow]] |
 | Harbor-Master Pell Reed | Keeper of the grain floats | [[01 World/Atlas/Towns/Reedharbor|Reedharbor]] |
@@ -89,3 +89,4 @@ This public index records the names and civic roles attached to approved Nauthea
 | Tala Redwell | Master of the pilgrim kitchens | [[01 World/Atlas/Towns/Red-Well Crossing|Red-Well Crossing]] |
 
 These records are intentionally concise. They identify public offices and local points of contact without exposing private campaign information or GM-only organizations.
+

@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 # Brackenford
 
-[[01 World/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Tidemarch|Tidemarch]] · [[01 World/Alderhush|Alderhush]]
+[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch|Tidemarch]] · [[01 World/Nations/New Anglia/Regions/Inland Market Country/Alderhush|Alderhush]]
 
 Brackenford is a modest New Anglian market town approximately three days inland from Tidemarch on foot. It stands where the western trade road crosses a broad, slow-moving river before rising into the region's smaller mountain country.
 
@@ -22,4 +22,5 @@ Sheep pastures, apple orchards, wet meadows, alder stands, and willow groves sur
 
 Brackenford serves travelers moving between the western coast, farming interior, and mountain roads. Inns, wagonwrights, farriers, wool merchants, cider presses, charcoal burners, herbalists, and foothill guides form much of its economy.
 
-The ascending road beyond town eventually reaches old mountain pilgrimage routes, including approaches associated with the [[01 World/Temple of the Still Palm|Temple of the Still Palm]].
+The ascending road beyond town eventually reaches old mountain pilgrimage routes, including approaches associated with the [[01 World/Nations/New Anglia/Regions/Smaller Mountain Country/Temple of the Still Palm|Temple of the Still Palm]].
+

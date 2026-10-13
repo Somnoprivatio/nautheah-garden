@@ -12,7 +12,7 @@ updated: 2026-10-12
 
 # Suckstuck
 
-[[01 World/Atlas Index|Approved Locations Atlas]] · [[01 World/Places Index|Places Index]]
+[[01 World/00 Indexes/Atlas Index|Approved Locations Atlas]] · [[01 World/00 Indexes/Places Index|Places Index]]
 
 Suckstuck is a swamp region roughly the size of half a continent. Its wetlands contain shifting channels, deep bogs, dense vegetation, and long stretches where ordinary roads are impossible.
 
@@ -23,3 +23,4 @@ Maps of Suckstuck are often incomplete or quickly outdated. Travelers rely on ra
 - **Environment:** immense swamp and wetland.
 - **Travel:** slow, hazardous, and highly dependent on local conditions.
 - **Public reputation:** remote, difficult to map, and rich in unfamiliar life.
+

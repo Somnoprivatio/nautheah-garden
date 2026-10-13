@@ -9,7 +9,7 @@ updated: 2026-09-07
 
 # Merchants and Proprietors
 
-[[02 People/People Index|People Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]]
+[[02 People/People Index|People Index]] · [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]]
 
 ## Caldris Vane
 
@@ -26,3 +26,4 @@ Ilyon “Ily” Marshglass is a sea elf reagent broker and alchemical supplier w
 ## Keelwhisper
 
 A male Tabaxi known by the title **Whisper beneath the Keel**. He owns **Talontinous Delight** in Forever Port. His broader private business and network are not part of this public profile.
+

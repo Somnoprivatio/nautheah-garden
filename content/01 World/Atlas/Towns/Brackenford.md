@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Brackenford
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]]
 
 **Brackenford** is a publicly recognized Inland market town within [[01 World/Atlas/Regions/New Anglia|New Anglia]].
 

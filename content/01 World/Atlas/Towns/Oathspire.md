@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Oathspire
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Crownscar Interior|Crownscar Interior]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Crownscar Interior|Crownscar Interior]]
 
 **Oathspire** is a publicly recognized Town within [[01 World/Atlas/Regions/Crownscar Interior|Crownscar Interior]].
 It is known for diplomacy under watchful towers.

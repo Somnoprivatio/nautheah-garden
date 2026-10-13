@@ -6,12 +6,12 @@ tags:
   - place
   - index
 created: 2026-09-07
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Places Index
 
-[[00 Home/Start Here|Home]] · [[01 World/World Overview|World Overview]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] · [[01 World/Atlas Index|Approved Locations Atlas]]
+[[00 Home/Start Here|Home]] · [[01 World/00 Indexes/World Overview|World Overview]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] · [[01 World/00 Indexes/Atlas Index|Approved Locations Atlas]]
 
 This is the public navigation order for Nautheah:
 
@@ -26,7 +26,7 @@ The supplied world map labels both political areas and geographic regions. Natio
 Fali-City is both a nation and a continental capital.
 
 - **Capitals**
-  - [[01 World/Fali-City and New Anglia#Fali-City|Fali-City]] — nation and continental capital.
+  - [[01 World/Nations/Fali-City/Fali-City and New Anglia#Fali-City|Fali-City]] — nation and continental capital.
 - **Regions**
   - [[01 World/Atlas/Regions/Highroad Crown|Highroad Crown]]
     - **Cities/Provinces**
@@ -52,7 +52,7 @@ Fali-City is both a nation and a continental capital.
 Lakeland is a nation and continent.
 
 - **Capitals**
-  - [[01 World/Lakeland#Lakeland City|Lakeland City]] — national and continental capital.
+  - [[01 World/Nations/Lakeland/Lakeland#Lakeland City|Lakeland City]] — national and continental capital.
     - **Stores/Shops:** no public shop directory currently published.
 - **Regions**
   - [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]]
@@ -84,12 +84,12 @@ New Anglia is a nation marked by volcanic mountains, agricultural country, shipb
 - **Regions**
   - **Western settled coast**
     - **Cities/Provinces:** [[01 World/Atlas/Towns/Tidemarch|Tidemarch]] — shipbuilding town and westbound harbor.
-    - **Notable locations:** [[01 World/Crosswater Reach|Crosswater Reach]].
+    - **Notable locations:** [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Crosswater Reach|Crosswater Reach]].
   - **Inland market country**
     - **Cities/Provinces:** [[01 World/Atlas/Towns/Brackenford|Brackenford]].
-    - **Notable locations:** [[01 World/Alderhush|Alderhush]].
+    - **Notable locations:** [[01 World/Nations/New Anglia/Regions/Inland Market Country/Alderhush|Alderhush]].
   - **Smaller mountain country**
-    - **Notable locations:** [[01 World/Temple of the Still Palm|Temple of the Still Palm]].
+    - **Notable locations:** [[01 World/Nations/New Anglia/Regions/Smaller Mountain Country/Temple of the Still Palm|Temple of the Still Palm]].
 
 ### [[01 World/Nations/Simic Isles/Simic Isles Index|Simic Isles]]
 
@@ -122,8 +122,8 @@ Fisherman's Detriment is a tropical, mountainous island nation and archipelago. 
         - **Notable locations:** The Wreckwash (publicly recognized landmark; detailed record not yet published).
   - [[01 World/Atlas/Regions/Morning Strait|Morning Strait]]
     - **Cities/Provinces**
-      - [[01 World/Fisherman's Detriment#Morning Dew|Morning Dew]] — settlement on the island side of the strait.
-    - **Notable locations:** [[01 World/Morning Strait#Dewbreak Anchorage|Dewbreak Anchorage]]; [[01 World/Morning Strait#Straitwatch Quay|Straitwatch Quay]].
+      - [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment#Morning Dew|Morning Dew]] — settlement on the island side of the strait.
+    - **Notable locations:** [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Strait#Dewbreak Anchorage|Dewbreak Anchorage]]; [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Strait#Straitwatch Quay|Straitwatch Quay]].
   - [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]]
     - **Cities/Provinces**
       - [[01 World/Atlas/Towns/Cloudhook|Cloudhook]]
@@ -131,9 +131,9 @@ Fisherman's Detriment is a tropical, mountainous island nation and archipelago. 
       - [[01 World/Atlas/Towns/Steamroot|Steamroot]]
         - **Notable locations:** The Root Baths (publicly recognized landmark; detailed record not yet published).
 - **Cities/Provinces outside the regional summaries**
-  - [[01 World/Fisherman's Detriment#Elpa, City of the Two Tides|Elpa]] — city of the two tides.
+  - [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment#Elpa, City of the Two Tides|Elpa]] — city of the two tides.
     - **Stores/Shops:** The Second Skin; Keelbreaker Blades; The Brined Crucible; Brasswake Arms; The Resonant Spire; The Sunken Chandlery.
-  - [[01 World/Forever Port|Forever Port]] — major harbor city.
+  - [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] — major harbor city.
     - **Stores/Shops and notable locations:** [[02 People/Merchants and Proprietors#Keelwhisper|Talontinous Delight]]; Lion's Pride Inn; Forever Port Gazette; Iron Authority harbor facilities.
 
 ### [[01 World/Nations/Whoasis/Whoasis Index|Whoasis]]
@@ -191,7 +191,8 @@ Prominence is the eastern, war-scarred continent; a single continental capital h
 ## Prominent regions and islands
 
 - [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] — map label **Mount Nevaeh**; mountain region.
-  - **Cities/Provinces:** [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]].
+  - **Cities/Provinces:** [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]]; [[01 World/Prominent Regions/Mount Neveah/Thunderrock/Thunderrock|Thunderrock]].
+  - **Notable locations:** [[01 World/Prominent Regions/Mount Neveah/Swaying Peaks Brotherhood/Floating Home Temple|Swaying Peaks Brotherhood Floating Home Temple]]; [[01 World/Prominent Regions/Mount Neveah/Thunderrock/Locations/Temple of Kelemvor|Temple of Kelemvor and Church Garden]]; [[01 World/Prominent Regions/Mount Neveah/Raven Queen Home Temple/Raven Queen Home Temple|Raven Queen Home Temple]].
 - [[01 World/Atlas/Places/Selanora's Island|Selanora's Island]] — forested island realm.
 - [[01 World/Atlas/Places/Suckstuck|Suckstuck]] — map label **Suckstuck Swamp**; half-continent-scale swamp region.
 - [[01 World/Atlas/Places/Uninhabited Island|Uninhabited Island]] — large, incompletely explored island.
@@ -199,13 +200,14 @@ Prominence is the eastern, war-scarred continent; a single continental capital h
 
 ## Map-label continuity
 
-- **Lakeland City** on the map is the capital of the nation of [[01 World/Lakeland|Lakeland]], not a separate nation.
+- **Lakeland City** on the map is the capital of the nation of [[01 World/Nations/Lakeland/Lakeland|Lakeland]], not a separate nation.
 - **New Anglia** is a separate nation. The older combined Fali-City/New Anglia page is retained for link compatibility; the New Anglia nation record is the primary classification.
 - **Simic Isles** is a nation of volcanic islands. Its public record is linked under **Nations**, not under prominent regions.
-- **Whoahasis** on the map is the older/map spelling of [[01 World/Western and Eastern Continents#Whoasis|Whoasis]].
+- **Whoahasis** on the map is the older/map spelling of [[01 World/Continents/Western and Eastern Continents#Whoasis|Whoasis]].
 - **Mount Nevaeh** on the map corresponds to the vault's [[01 World/Atlas/Places/Mount Neveah|Mount Neveah]] record.
 - **Suckstuck Swamp** on the map corresponds to the vault's [[01 World/Atlas/Places/Suckstuck|Suckstuck]] record.
 
 ## Navigation note
 
 The public atlas contains broader regional and town summaries. This index is the preferred route for moving from a nation to its capital, regions, settlements, and publicly recorded sites.
+

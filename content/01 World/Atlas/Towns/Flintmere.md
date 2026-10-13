@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Flintmere
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Stonebell Uplands|Stonebell Uplands]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Stonebell Uplands|Stonebell Uplands]]
 
 **Flintmere** is a publicly recognized Town within [[01 World/Atlas/Regions/Stonebell Uplands|Stonebell Uplands]].
 It is known for mountain mining and lake ferries.

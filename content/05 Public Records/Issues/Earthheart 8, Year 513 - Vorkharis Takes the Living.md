@@ -12,7 +12,7 @@ updated: 2026-09-07
 
 # Vorkharis Takes the Living
 
-[[05 Public Records/Forever Port Gazette|Forever Port Gazette]] · [[01 World/Fali-City and New Anglia#New Anglia|New Anglia]]
+[[05 Public Records/Forever Port Gazette|Forever Port Gazette]] · [[01 World/Nations/Fali-City/Fali-City and New Anglia#New Anglia|New Anglia]]
 
 **Late Edition · Earthheart 8, Sunglade, Year 513 · Price: Two Copper**
 
@@ -31,3 +31,4 @@ The paper connects these routes to volcanic labor sites and the title **Ash Sove
 - Do not attempt a rescue alone.
 
 This article records the Gazette's published claims. It does not establish the private identity of every captor or the complete organization behind the disappearances.
+

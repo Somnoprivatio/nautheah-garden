@@ -10,11 +10,11 @@ updated: 2026-10-11
 
 # Fisherman's Detriment
 
-[[01 World/Places Index|Places Index]]
+[[01 World/00 Indexes/Places Index|Places Index]]
 
 Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
 
-The public register does not designate a national capital. [[01 World/Forever Port|Forever Port]] is a major harbor city, but it is not currently recorded as the nation's capital.
+The public register does not designate a national capital. [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] is a major harbor city, but it is not currently recorded as the nation's capital.
 
 ## Elpa, City of the Two Tides
 
@@ -30,8 +30,9 @@ Morning Dew is a settlement within Fisherman's Detriment. Farmers and sailors sh
 
 ## Morning Strait
 
-The [[01 World/Morning Strait|Morning Strait]] is the recognized water passage between Morning Dew's island and the mainland. Its named approaches are [[01 World/Morning Strait#Dewbreak Anchorage|Dewbreak Anchorage]] and [[01 World/Morning Strait#Straitwatch Quay|Straitwatch Quay]]. Local officials, hazards, and harbor customs remain open for future exploration.
+The [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Strait|Morning Strait]] is the recognized water passage between Morning Dew's island and the mainland. Its named approaches are [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Strait#Dewbreak Anchorage|Dewbreak Anchorage]] and [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Strait#Straitwatch Quay|Straitwatch Quay]]. Local officials, hazards, and harbor customs remain open for future exploration.
 
 ## Forever Port
 
-[[01 World/Forever Port|Forever Port]] is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to [[02 World/Fisherman's Detriment/Settlements/Forever Port/Shops/Talontinous Delight|Talontinous Delight]], operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
+[[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port#Talontinous Delight|Talontinous Delight]], operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
+

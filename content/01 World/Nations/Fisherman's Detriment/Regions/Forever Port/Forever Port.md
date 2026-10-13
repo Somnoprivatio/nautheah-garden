@@ -13,7 +13,7 @@ updated: 2026-10-11
 
 # Forever Port
 
-[[01 World/Places Index|Places Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]] · [[03 Factions/Iron Authority|Iron Authority]] · [[05 Public Records/Forever Port Gazette|Forever Port Gazette]]
+[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]] · [[03 Factions/Iron Authority|Iron Authority]] · [[05 Public Records/Forever Port Gazette|Forever Port Gazette]]
 
 Forever Port is a major harbor city within **Fisherman's Detriment**. It never closes: lighthouses remain lit, vessels move through the harbor at all hours, and current records describe it as the world's busiest center of commerce.
 
@@ -27,7 +27,7 @@ The [[03 Factions/Iron Authority|Iron Authority]] is Forever Port's naval milita
 
 ### Talontinous Delight
 
-[[01 World/Forever Port#Talontinous Delight|Talontinous Delight]] is a tavern and restaurant operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], titled **Whisper beneath the Keel**. It is a known meeting place for maritime contacts and the location where the Drowning Promise arranged delivery of Maclear's delayed cargo.
+[[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port#Talontinous Delight|Talontinous Delight]] is a tavern and restaurant operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], titled **Whisper beneath the Keel**. It is a known meeting place for maritime contacts and the location where the Drowning Promise arranged delivery of Maclear's delayed cargo.
 
 ### Forever Port Gazette
 
@@ -42,3 +42,4 @@ The **Drowning Promise** reached Forever Port after a three-day voyage from Elpa
 No public district map, permanent population count, complete government hierarchy, or comprehensive list of businesses has been established. The city's active harbor is known; its full internal geography is not.
 
 **Tags:** #place #settlement #fishermans-detriment #public-record
+

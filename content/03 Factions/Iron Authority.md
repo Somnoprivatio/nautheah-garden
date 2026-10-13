@@ -14,7 +14,7 @@ updated: 2026-10-11
 
 # Iron Authority
 
-[[03 Factions/Faction Index|Faction Index]] · [[01 World/Forever Port|Forever Port]] · [[02 People/Vorkesh Sorn|Vorkesh Sorn]]
+[[03 Factions/Faction Index|Faction Index]] · [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] · [[02 People/Vorkesh Sorn|Vorkesh Sorn]]
 
 The **Iron Authority** is Forever Port's naval military and the same organization recorded regionally as the **Fisherman's Detriment Port Authority**. It patrols the harbor and surrounding waters, supports maritime defense, and enforces the port's authority at sea. Its head is [[02 People/Vorkesh Sorn|Vorkesh Sorn]].
 
@@ -32,3 +32,4 @@ The Authority's wider command structure, deployments, and relationship to the cu
 - [[02 People/Lieutenant Kaharvesh|Lieutenant Kaharvesh]] — officer aboard the Iron Calamity.
 
 **Tags:** #faction #naval #forever-port #public-record
+

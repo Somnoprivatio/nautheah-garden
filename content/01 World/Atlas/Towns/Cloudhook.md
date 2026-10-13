@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Cloudhook
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]]
 
 **Cloudhook** is a publicly recognized Town within [[01 World/Atlas/Regions/Raincut Highlands|Raincut Highlands]].
 It is known for cliff raincatchers and rope bridges.

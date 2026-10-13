@@ -9,7 +9,7 @@ updated: 2026-10-12
 
 # Prominent Regions and Islands
 
-[[01 World/Places Index|Places Index]]
+[[01 World/00 Indexes/Places Index|Places Index]]
 
 ## Mount Neveah (map label: Mount Nevaeh)
 
@@ -34,3 +34,4 @@ A vast region of mana storms and extreme magical fluctuations. It is not a swamp
 ## Uninhabited Island
 
 A large island with no known government or inhabitants. It remains unexplored. A past commission to catalog its flora and fauna is recorded as completed, but no comprehensive public survey has yet entered this vault.
+

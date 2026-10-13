@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 # Tidemarch
 
-[[01 World/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Crosswater Reach|Crosswater Reach]]
+[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Crosswater Reach|Crosswater Reach]]
 
 Tidemarch is a working shipbuilding town on the westernmost settled coast of New Anglia. Its deep tidal inlet opens onto the Crosswater Reach, making the town one of the last dependable New Anglian harbors used by westbound vessels.
 
@@ -31,3 +31,4 @@ Tidemarch builds and repairs ships and handles grain, lumber, tools, livestock, 
 - **Westbreak:** a stone-and-timber breakwater extending into the Reach.
 - **The Saltmarket:** a canvas-covered market for provisions, maritime supplies, and foreign cargo.
 - **Lantern Hill:** the higher district overlooking the harbor.
+

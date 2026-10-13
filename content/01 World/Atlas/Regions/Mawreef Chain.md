@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Mawreef Chain
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]]
 
-**Mawreef Chain** is a publicly recognized Reef-island chain within [[01 World/Fisherman's Detriment|Fisherman's Detriment]].
+**Mawreef Chain** is a publicly recognized Reef-island chain within [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]].
 It is known for deep salvage, tide charts, and dangerous creature lore.
 Approximate population in the current gazetteer: **31000**.
 Magic access is described publicly as **abundant near ports; practical enchantment follows fishing, salvage, and water infrastructure**.

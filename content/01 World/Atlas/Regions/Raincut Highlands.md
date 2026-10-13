@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Raincut Highlands
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Fisherman's Detriment|Fisherman's Detriment]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]]
 
-**Raincut Highlands** is a publicly recognized Tropical volcanic uplands within [[01 World/Fisherman's Detriment|Fisherman's Detriment]].
+**Raincut Highlands** is a publicly recognized Tropical volcanic uplands within [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]].
 It is known for rain catchment, hot springs, and steep island roads.
 Approximate population in the current gazetteer: **22000**.
 Magic access is described publicly as **abundant near ports; practical enchantment follows fishing, salvage, and water infrastructure**.

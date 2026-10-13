@@ -9,11 +9,11 @@ updated: 2026-10-12
 
 # World Overview
 
-[[00 Home/Start Here|Home]] · [[01 World/Places Index|Places]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]]
+[[00 Home/Start Here|Home]] · [[01 World/00 Indexes/Places Index|Places]] · [[01 World/Nations/Nations Index|Nations]] · [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]]
 
 Nautheah's known geography joins large continental powers, island nations, mountain regions, unsettled expanses, and seas shaped by dependable long-distance currents.
 
-The current world map is a geographic naming reference rather than a claim that every label is a nation. Political entries, regions, islands, and capitals are separated in the [[01 World/Places Index|Places Index]].
+The current world map is a geographic naming reference rather than a claim that every label is a nation. Political entries, regions, islands, and capitals are separated in the [[01 World/00 Indexes/Places Index|Places Index]].
 
 For folder navigation, start with the [[01 World/Nations/Nations Index|Nations]] folder or the [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] folder.
 
@@ -29,3 +29,4 @@ For folder navigation, start with the [[01 World/Nations/Nations Index|Nations]]
 | [[01 World/Prominent Regions/Prominent Regions Index\|Prominent regions and islands]] | Mount Neveah, Selanora's Island, Suckstuck, the Vortex of Mist, and the Uninhabited Island. |
 
 The known oceans are crossed by the [[04 Lore/Ocean Currents|Northern and Southern Currents]], which shape travel, trade, and isolation.
+

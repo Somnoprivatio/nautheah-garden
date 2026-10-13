@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Qasr Namar
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]]
 
 **Qasr Namar** is a publicly recognized Town within [[01 World/Atlas/Regions/Sunscar Expanse|Sunscar Expanse]].
 It is known for water-clock market and caravan arbitration.

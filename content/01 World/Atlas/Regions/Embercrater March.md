@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Embercrater March
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Western and Eastern Continents#Whoasis|Whoasis]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Continents/Western and Eastern Continents#Whoasis|Whoasis]]
 
-**Embercrater March** is a publicly recognized Volcanic frontier within [[01 World/Western and Eastern Continents#Whoasis|Whoasis]].
+**Embercrater March** is a publicly recognized Volcanic frontier within [[01 World/Continents/Western and Eastern Continents#Whoasis|Whoasis]].
 It is known for ash mines, mercenary borders, and dangerous renewal.
 Approximate population in the current gazetteer: **28500**.
 Magic access is described publicly as **low and hazardous; magic concentrates around heat-resistant ore and volcanic relics**.

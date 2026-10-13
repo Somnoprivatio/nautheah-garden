@@ -10,9 +10,9 @@ updated: 2026-10-11
 
 # Highroad Crown
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Fali-City and New Anglia#Fali-City|Fali-City and New Anglia]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Nations/Fali-City/Fali-City and New Anglia#Fali-City|Fali-City and New Anglia]]
 
-**Highroad Crown** is a publicly recognized Central trade and academy hinterland within [[01 World/Fali-City and New Anglia#Fali-City|Fali-City and New Anglia]].
+**Highroad Crown** is a publicly recognized Central trade and academy hinterland within [[01 World/Nations/Fali-City/Fali-City and New Anglia#Fali-City|Fali-City and New Anglia]].
 It is known for road junctions, student caravans, and experimental craft.
 Approximate population in the current gazetteer: **72000**.
 Magic access is described publicly as **abundant; arcane services, reagents, and enchanted goods are common**.

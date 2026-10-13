@@ -18,10 +18,10 @@ This vault is a high-level, player-safe reference. It contains confirmed setting
 
 ## Begin here
 
-- [[01 World/World Overview|World Overview]] — major nations, continents, and regions.
+- [[01 World/00 Indexes/World Overview|World Overview]] — major nations, continents, and regions.
 - [[01 World/Nations/Nations Index|Nations]] — folder navigation from each nation to its regions and settlements.
 - [[01 World/Prominent Regions/Prominent Regions Index|Prominent Regions]] — geographic regions and islands that are not nations.
-- [[01 World/Places Index|Places Index]] — the complete nation-to-landmark hierarchy.
+- [[01 World/00 Indexes/Places Index|Places Index]] — the complete nation-to-landmark hierarchy.
 - [[02 People/People Index|People Index]] — public figures, merchants, and current adventurers.
 - [[03 Factions/Faction Index|Faction Index]] — public institutions, houses, and orders.
 - [[04 Lore/Lore Index|Lore Index]] — calendars, currents, faiths, and old legends.
@@ -32,3 +32,4 @@ This vault is a high-level, player-safe reference. It contains confirmed setting
 
 > [!note] Names and unknowns
 > An omitted detail is intentionally unknown or not cleared for public release. Absence is not permission to infer a secret answer.
+

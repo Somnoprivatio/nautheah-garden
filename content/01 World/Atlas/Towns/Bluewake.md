@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Bluewake
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Lantern Shoals|Lantern Shoals]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Lantern Shoals|Lantern Shoals]]
 
 **Bluewake** is a publicly recognized Town within [[01 World/Atlas/Regions/Lantern Shoals|Lantern Shoals]].
 It is known for night harbor, pilot houses, and sea-song.

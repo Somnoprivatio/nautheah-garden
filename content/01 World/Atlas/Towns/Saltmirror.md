@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Saltmirror
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Glasswind Coast|Glasswind Coast]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Glasswind Coast|Glasswind Coast]]
 
 **Saltmirror** is a publicly recognized Town within [[01 World/Atlas/Regions/Glasswind Coast|Glasswind Coast]].
 It is known for sea-glass craft and salt fisheries.

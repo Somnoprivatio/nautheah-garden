@@ -13,7 +13,7 @@ updated: 2026-09-23
 
 # Madruk Inkmaul
 
-[[02 People/People Index|People Index]] · [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]] · [[01 World/Forever Port|Forever Port]]
+[[02 People/People Index|People Index]] · [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]] · [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]]
 
 Madruk Inkmaul is identified in the current campaign record as the **first mate and arcane scribe associated with the Cinder Ledger**. His duties are connected with shipboard manifests, coded orders, and other written records.
 
@@ -24,3 +24,4 @@ The Cinder Ledger remains an unresolved investigative lead. Madruk's appearance,
 The controlling vault spelling is **Madruk Inkmaul**.
 
 **Tags:** #people #npc #campaign/northern-current-carnies #cinder-ledger
+

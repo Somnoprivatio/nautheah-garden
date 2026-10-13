@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Reedharbor
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]]
 
 **Reedharbor** is a publicly recognized Town within [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]].
 It is known for ferry trade and floating granaries.

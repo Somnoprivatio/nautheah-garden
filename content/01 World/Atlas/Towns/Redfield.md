@@ -10,7 +10,7 @@ updated: 2026-10-11
 
 # Redfield
 
-[[01 World/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]]
+[[01 World/00 Indexes/Atlas Index|Atlas Index]] · [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]]
 
 **Redfield** is a publicly recognized Town within [[01 World/Atlas/Regions/Ash Banner Lowlands|Ash Banner Lowlands]].
 It is known for refugee orchards and stubborn local councils.
