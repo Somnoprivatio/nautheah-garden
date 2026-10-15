@@ -7,7 +7,7 @@ tags:
   - region
   - public-record
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Suckstuck
@@ -15,6 +15,10 @@ updated: 2026-10-12
 [[01 World/00 Indexes/Atlas Index|Approved Locations Atlas]] · [[01 World/00 Indexes/Places Index|Places Index]]
 
 Suckstuck is a swamp region roughly the size of half a continent. Its wetlands contain shifting channels, deep bogs, dense vegetation, and long stretches where ordinary roads are impossible.
+
+## Population and culture
+
+Suckstuck has little conventional urbanization. Indigenous-inspired wetland communities, river peoples, and an enormous variety of wild, shapeshifting, beastlike, and plantlike creatures shape its social landscape. Local identity is often based more on habitat and kinship than on a single ancestry.
 
 Maps of Suckstuck are often incomplete or quickly outdated. Travelers rely on raised paths, boats, local knowledge, and careful weather planning.
 

@@ -8,7 +8,7 @@ tags:
   - nation
   - legacy-index
 created: 2026-09-07
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Fali-City and New Anglia
@@ -23,9 +23,17 @@ Fali-City is both a nation and the capital of its continent. The city is organiz
 
 The city is known for its [[03 Factions/Fali-City Adventuring Academy|Adventuring Academy]], a dwarven mine, extensive commerce, and eastern and western bay trade outposts. Ilmater, Tyr, and Torm are among the publicly recognized faiths associated with the city.
 
+### Population and culture
+
+Fali-City is a broad melting pot of humans, dwarves, gnomes, elves, halflings, dragonborn, and many other peoples. The northern approaches and upland districts are especially associated with dwarves, gnomes, and duergar because of their mining, engineering, and subterranean trade communities.
+
 ## New Anglia
 
 New Anglia is a separate nation of agricultural and trade settlements tied to large volcanic mountains. Its settlements are decentralized, and its coasts support shipbuilding and maritime labor. The nation supplies farms, quarry work, smithing, and finished goods to regional trade routes.
+
+### Population and culture
+
+New Anglia is primarily human, with Aarakocra communities and many elves, halflings, dwarves, gnomes, and other peoples common to its trade routes. Ports and border settlements are more mixed because of contact with Fali-City and Whoasis, while inland communities tend to be more localized.
 
 New Anglia is presently the center of the [[05 Public Records/Issues/Earthheart 8, Year 513 - Vorkharis Takes the Living|Gazette's reports of disappearances and forced labor]]. Those claims are serious public allegations, but the exact camps, chain of command, and number of captives remain unproven.
 

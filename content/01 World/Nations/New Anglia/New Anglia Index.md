@@ -7,7 +7,7 @@ tags:
   - navigation
   - public-record
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # New Anglia
@@ -17,6 +17,8 @@ updated: 2026-10-12
 Canonical record: [[01 World/Atlas/Regions/New Anglia|New Anglia]]. Legacy context: [[01 World/Nations/Fali-City/Fali-City and New Anglia#New Anglia|combined Fali-City/New Anglia record]].
 
 New Anglia is a separate nation of volcanic mountains, agricultural and trade settlements, shipbuilding, and coastal labor.
+
+**Population profile:** primarily human, with Aarakocra and many elves, halflings, dwarves, gnomes, and other trade-route peoples.
 
 ## Capital
 

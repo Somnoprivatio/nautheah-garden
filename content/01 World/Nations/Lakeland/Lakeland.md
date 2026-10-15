@@ -4,7 +4,7 @@ tags:
   - place
   - nation
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-13
 ---
 
 # Lakeland
@@ -12,6 +12,10 @@ updated: 2026-09-07
 [[01 World/00 Indexes/Places Index|Places Index]]
 
 Lakeland is a nation and continent organized around fertile country, lakes, and navigable waterways. Its capital, **Lakeland City**, is also the continent's capital.
+
+## Population and culture
+
+Lakeland is a coastal melting pot. Humans, elves, dwarves, halflings, gnomes, dragonborn, aquatic peoples, and many other ancestries move through its ports, canals, lake cities, and trade roads. Lakeland City and the major waterways are especially diverse, while rural lake communities retain more localized traditions.
 
 ## Lakeland City
 

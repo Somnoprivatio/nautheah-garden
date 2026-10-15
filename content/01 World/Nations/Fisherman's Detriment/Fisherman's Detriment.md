@@ -5,7 +5,7 @@ tags:
   - nation
   - maritime
 created: 2026-09-07
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # Fisherman's Detriment
@@ -13,6 +13,10 @@ updated: 2026-10-11
 [[01 World/00 Indexes/Places Index|Places Index]]
 
 Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
+
+## Population and culture
+
+Fisherman's Detriment is a maritime melting pot. Simic hybrids, tritons, vedalken, catfolk and tabaxi, lionin, and giff are especially visible alongside humans, elves, dwarves, and other coastal communities. Elpa and Forever Port are highly mixed; smaller islands often preserve distinct local sea traditions.
 
 The public register does not designate a national capital. [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] is a major harbor city, but it is not currently recorded as the nation's capital.
 

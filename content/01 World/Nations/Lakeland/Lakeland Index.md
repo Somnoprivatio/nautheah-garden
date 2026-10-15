@@ -7,7 +7,7 @@ tags:
   - navigation
   - public-record
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Lakeland
@@ -21,6 +21,8 @@ Canonical record: [[01 World/Nations/Lakeland/Lakeland|Lakeland]]. Lakeland is a
 - [[01 World/Nations/Lakeland/Lakeland#Lakeland City|Lakeland City]] — national and continental capital.
 
 ## Regions and settlements
+
+**Population profile:** a coastal melting pot with especially diverse port and canal communities.
 
 - [[01 World/Nations/Lakeland/Regions/Lakeland Regions Index|Lakeland Regions]]
 

@@ -7,7 +7,7 @@ tags:
   - navigation
   - public-record
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Fali-City
@@ -17,6 +17,8 @@ updated: 2026-10-12
 Canonical record: [[01 World/Nations/Fali-City/Fali-City and New Anglia#Fali-City|Fali-City]].
 
 Fali-City is a nation and continental capital.
+
+**Population profile:** cosmopolitan; northern approaches are especially associated with dwarves, gnomes, and duergar.
 
 ## Capital
 

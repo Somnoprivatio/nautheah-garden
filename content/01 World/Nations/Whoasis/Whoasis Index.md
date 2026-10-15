@@ -7,7 +7,7 @@ tags:
   - navigation
   - public-record
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Whoasis
@@ -17,6 +17,8 @@ updated: 2026-10-12
 Canonical record: [[01 World/Atlas/Places/Whoasis|Whoasis]]. The map label reads **Whoahasis**; Whoasis remains the controlling vault spelling. No single continental capital is publicly established.
 
 ## Regions and settlements
+
+**Population profile:** goblins, hobgoblins, desert elves, humans, dwarves, dragonborn, and northern lionfolk communities.
 
 - [[01 World/Nations/Whoasis/Regions/Whoasis Regions Index|Whoasis Regions]]
 

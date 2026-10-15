@@ -18,6 +18,10 @@ Mount Neveah is a high, rugged mountain region north of [[01 World/Atlas/Places/
 
 The region is known for dramatic elevation changes, floating or cliff-bound terrain, and weather that can shift quickly. [[01 World/Atlas/Places/Cloudfall Harbor|Cloudfall Harbor]] is one of its best-known ports and approaches.
 
+## Population and culture
+
+Mount Neveah is a magical melting pot with strong communities of humans, fairies and other fey, shadar-kai, shifters, changelings, and kalashtar, alongside ordinary mountain peoples and visiting travelers. Magical creatures are common enough to shape local law, trade, pilgrimage, and folklore.
+
 ## Public notes
 
 - **Environment:** alpine mountains, river valleys, and high passes.
