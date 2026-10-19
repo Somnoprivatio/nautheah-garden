@@ -4,7 +4,7 @@ tags:
   - lore
   - deity
 created: 2026-09-07
-updated: 2026-09-10
+updated: 2026-10-19
 ---
 
 # Faiths of Nautheah
@@ -24,6 +24,16 @@ Azul is a sea deity honored especially by farmers and sailors of Morning Dew. Pu
 ## Eldath
 
 Eldath is associated with peace, still water, and deliberate restraint. The [[03 Factions/Temple of the Still Palm|Temple of the Still Palm]] in New Anglia honors her through meditation, breath discipline, controlled martial practice, and teachings that distinguish composure from passivity.
+
+## Hanseath
+
+Hanseath is honored as a deity of fellowship, brewing, courage, and honest celebration. The [[01 World/Prominent Regions/Mount Neveah/Swaying Peaks Brotherhood/Floating Home Temple|Swaying Peaks Brotherhood]] calls him the **Laughing Brewer**, the **Keg-Bearer**, and the **Friend at the Long Table**. Its tradition treats a shared drink as a way to celebrate survival, mourn without shame, preserve truthful memories, and remember those who could not return.
+
+The Brotherhood's central observance is the **First Pour**: one cup for the labor that carried the gathering, one for the companions present, and one for the absent. Its recovered teachings appear in [[06 Campaign Lore/Northern Current Carnies/Galdric Tombstone Materials/Galdric Tombstone — Journal and History of the Swaying Peaks Brotherhood|Galdric Tombstone's journal and Brotherhood history]].
+
+## Lolth
+
+Lolth appears in Underdark histories as the power from whose control some drow communities seek escape. One recovered account describes the gnome Nimble traveling with drow guides and liberators who opened hidden routes, supplied fugitives, and helped families build lives beyond her influence.
 
 ## Regional faiths
 
