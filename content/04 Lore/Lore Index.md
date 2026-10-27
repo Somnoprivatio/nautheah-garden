@@ -4,7 +4,7 @@ tags:
   - lore
   - index
 created: 2026-09-07
-updated: 2026-10-11
+updated: 2026-10-27
 ---
 
 # Lore Index
@@ -12,6 +12,7 @@ updated: 2026-10-11
 [[00 Home/Start Here|Home]]
 
 - [[04 Lore/Faiths of Nautheah|Faiths of Nautheah]] — major publicly documented faiths.
+- [[04 Lore/Deities/Deities Index|Deities of Nautheah]] — complete Active and Inactive divine reference catalogues.
 - [[04 Lore/Death of Selanora|Death of Selanora]] — the old Triton account and the Moon Lock.
 - [[04 Lore/Tidecaller|Tidecaller]] — legendary instrument associated with Selanora.
 - [[04 Lore/Selanora Calendar|Selanora Calendar]] — shared calendar and lunar structure.

@@ -4,7 +4,7 @@ tags:
   - lore
   - deity
 created: 2026-09-07
-updated: 2026-10-19
+updated: 2026-10-27
 ---
 
 # Faiths of Nautheah
@@ -12,6 +12,9 @@ updated: 2026-10-19
 [[04 Lore/Lore Index|Lore Index]]
 
 Nautheah contains many faiths. This page lists only deities with a clear public connection to currently documented places or legends.
+
+> [!info] Complete deity catalogue
+> Browse [[04 Lore/Deities/Deities Index|Deities of Nautheah]] for the complete library: **49 Active** deity records and **147 Inactive** reference records. Inactive entries are retained for research and are not established as active Nautheah canon.
 
 ## Selanora
 
@@ -41,3 +44,8 @@ Lolth appears in Underdark histories as the power from whose control some drow c
 - **Oghma** is associated with Lakeland City's Church of Light and Knowledge and its learned institutions.
 
 Other deities may be worshiped across the world, but a name's existence in a reference catalogue does not by itself establish an active public cult in every region.
+
+## Complete catalogues
+
+- [[04 Lore/Deities/Active/Active Deities Index|Active Deities]] — divine powers with a curated Nautheah connection.
+- [[04 Lore/Deities/Inactive/Inactive Deities Index|Inactive Deities]] — reference-only entries not presently active in Nautheah canon.
