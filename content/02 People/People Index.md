@@ -4,7 +4,7 @@ tags:
   - people
   - index
 created: 2026-09-07
-updated: 2026-10-11
+updated: 2026-10-27
 ---
 
 # People Index
@@ -32,6 +32,7 @@ updated: 2026-10-11
 - [[02 People/Captain Maelin Veyr|Captain Maelin Veyr]] — captain of the Iron Calamity.
 - [[02 People/Lieutenant Kaharvesh|Lieutenant Kaharvesh]] — Iron Authority officer aboard the Iron Calamity.
 - [[02 People/Israel Hands|Israel Hands]] — sailor associated with Elpa's guard and the Queen Anne's Revenge tradition.
+- [[02 People/Tobren Vale|Tobren “Tob” Vale]] — quay dockmaster responsible for Tidemarch's Nine Bells Quay.
 
 ## Northern Current Carnies investigation
 
@@ -45,5 +46,6 @@ updated: 2026-10-11
 - [[02 People/Merchants and Proprietors#Veyra Shellstitch|Veyra Shellstitch]]
 - [[02 People/Merchants and Proprietors#Ilyon Marshglass|Ilyon Marshglass]]
 - [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]]
+- [[02 People/Hesta Pike|Hesta Pike]] — proprietor of The Nine Bells in Tidemarch.
 
 Names tied only to private backstories or unintroduced preparation are not included.

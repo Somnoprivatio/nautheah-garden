@@ -3,7 +3,7 @@ title: Tidemarch
 tags:
   - place
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-10-27
 ---
 
 # Tidemarch
@@ -31,4 +31,11 @@ Tidemarch builds and repairs ships and handles grain, lumber, tools, livestock, 
 - **Westbreak:** a stone-and-timber breakwater extending into the Reach.
 - **The Saltmarket:** a canvas-covered market for provisions, maritime supplies, and foreign cargo.
 - **Lantern Hill:** the higher district overlooking the harbor.
+- **[[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Nine Bells Quay|Nine Bells Quay]]:** a quieter private and overflow berth at the edge of the Low Quays.
+- **[[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/The Nine Bells|The Nine Bells]]:** a dockside restaurant and inn attached directly to the quay.
+
+## Harbor contacts
+
+- [[02 People/Tobren Vale|Tobren “Tob” Vale]] — quay dockmaster for Nine Bells Quay.
+- [[02 People/Hesta Pike|Hesta Pike]] — proprietor of The Nine Bells.
 

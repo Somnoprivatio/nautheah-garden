@@ -6,7 +6,7 @@ tags:
   - place
   - index
 created: 2026-09-07
-updated: 2026-10-13
+updated: 2026-10-27
 ---
 
 # Places Index
@@ -83,7 +83,9 @@ New Anglia is a nation marked by volcanic mountains, agricultural country, shipb
   - No single national capital is currently listed in the public register.
 - **Regions**
   - **Western settled coast**
-    - **Cities/Provinces:** [[01 World/Atlas/Towns/Tidemarch|Tidemarch]] — shipbuilding town and westbound harbor.
+    - **Cities/Provinces:** [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch|Tidemarch]] — shipbuilding town and westbound harbor.
+      - **Stores/Shops:** [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/The Nine Bells|The Nine Bells]] — dockside restaurant, tavern, and inn.
+      - **Notable locations:** [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Nine Bells Quay|Nine Bells Quay]] — private and overflow berth.
     - **Notable locations:** [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Crosswater Reach|Crosswater Reach]].
   - **Inland market country**
     - **Cities/Provinces:** [[01 World/Atlas/Towns/Brackenford|Brackenford]].
