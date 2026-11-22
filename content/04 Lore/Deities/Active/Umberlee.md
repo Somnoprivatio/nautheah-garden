@@ -5,7 +5,7 @@ tags:
   - deity
   - deity-active
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-22
 deity_status: active
 ---
 
@@ -27,3 +27,9 @@ Umberlee is listed among the active divine powers in the curated Nautheah record
 The external article is a research aid. Nautheah's local records and later GM rulings control where they differ.
 
 - [Umberlee — Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Umberlee)
+
+## Northern Current Carnies encounter
+
+The crew witnessed Black Caesar's underwater execution aboard Queen Anne's Revenge after Leroy requested that Umberlee claim him. Israel Hands warned the party against accepting an offer of eternal sailing. The ship's full service terms were not revealed as shared knowledge.
+
+See [[06 Campaign Lore/Northern Current Carnies/Sessions/Session 009 - The Queen Anne's Revenge Rises|Session 009]] and [[06 Campaign Lore/Northern Current Carnies/Ships/Queen Anne's Revenge|Queen Anne's Revenge]].

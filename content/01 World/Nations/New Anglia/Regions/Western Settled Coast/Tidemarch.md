@@ -3,7 +3,7 @@ title: Tidemarch
 tags:
   - place
 created: 2026-09-10
-updated: 2026-10-27
+updated: 2026-11-22
 ---
 
 # Tidemarch
@@ -36,6 +36,16 @@ Tidemarch builds and repairs ships and handles grain, lumber, tools, livestock, 
 
 ## Harbor contacts
 
-- [[02 People/Tobren Vale|Tobren “Tob” Vale]] — quay dockmaster for Nine Bells Quay.
-- [[02 People/Hesta Pike|Hesta Pike]] — proprietor of The Nine Bells.
+- [[02 People/Campaign Specific/NPC - Story/Tobren Vale|Tobren “Tob” Vale]] — quay dockmaster for Nine Bells Quay.
+- [[02 People/World/NPC - Shop/Hesta Pike|Hesta Pike]] — proprietor of The Nine Bells.
 
+## What the visiting crew learned
+
+The Drowning Promise reached the town on 1 Harvestshade, Year 513. Hesta Pike reported repeated disappearances of useful workers, and the crew saw unfinished work and understaffed yards. Nix Copperthumb left the ship to seek work at Gond's Nail.
+
+- [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Old Smokehouse|Old Smokehouse]]: Veylan Giltbrush's venue on the former site of Vesper's mother's shop.
+- [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Gond's Nail|Gond's Nail]]: shipwright shrine, hiring point and rail bearing missing craftspeople's names.
+- [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Abe's Laboratory|Abe's Laboratory]]: concealed site found near town, later destroyed after the battle.
+- [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Hunting Lodge|Hunting Lodge]]: inspected on the return journey; resident absent.
+
+Brother Oren remained to attend to Vesper's affairs when the crew departed on 2 Harvestshade. The later arrivals and losses are recorded in [[06 Campaign Lore/Northern Current Carnies/Sessions/Session 012 - Tidemarch Homecoming|Session 012]] through [[06 Campaign Lore/Northern Current Carnies/Sessions/Session 015 - Vesper's Farewell and Lakeland Arrival|Session 015]].

@@ -4,32 +4,33 @@ tags:
   - campaign/northern-current-carnies
   - index
 created: 2026-09-07
-updated: 2026-10-19
+updated: 2026-11-22
 ---
 
 # Northern Current Carnies Campaign Overview
 
 [[00 Home/Start Here|Home]]
 
-The **Northern Current Carnies** is the active Nautheah campaign. Its five player characters sail aboard the **Drowning Promise**, a former raiding ship being reshaped into a traveling maritime carnival.
+The Northern Current Carnies sail aboard the **Drowning Promise**, a former raiding vessel being reshaped into a maritime carnival. Their journey connects Selanora's Seeds, the fight against slavery, encounters with old sea legends and the people they meet along Nautheah's routes.
 
-## Player-safe campaign links
+## Current shared position
 
-- [[06 Campaign Lore/Northern Current Carnies/Crew and Ship|Crew and Ship]]
-- [[06 Campaign Lore/Northern Current Carnies/Campaign Chronicle|Campaign Chronicle]]
-- [[06 Campaign Lore/Northern Current Carnies/Party-Known Discoveries|Party-Known Discoveries]]
-- [[06 Campaign Lore/Northern Current Carnies/Open Threads|Open Threads]]
-- [[06 Campaign Lore/Northern Current Carnies/Missions and Locations|Missions and Locations]]
-- [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]]
-- [[06 Campaign Lore/Northern Current Carnies/Session 005 - Captive Wagon and Cinder Ledger|Session 005 — Captive Wagon and Cinder Ledger]]
-- [[06 Campaign Lore/Northern Current Carnies/Session 006 - Infiltrating the Cinder Ledger|Session 006 — Infiltrating the Cinder Ledger]]
-- [[06 Campaign Lore/Northern Current Carnies/Galdric Tombstone Materials/Galdric Tombstone — Journal and History of the Swaying Peaks Brotherhood|Galdric's Journal and the Swaying Peaks Brotherhood]]
-- [[06 Campaign Lore/Northern Current Carnies/Galdric Tombstone Materials/Galdric Tombstone — Reveler's Feast|Galdric's Reveler's Feast]]
-- [[06 Campaign Lore/Northern Current Carnies/Galdric Tombstone Materials/Galdric Tombstone — Underdark Insect and Venom Brewing Notes|Galdric's Underdark Brewing Notes]]
-- [[02 People/Northern Current Carnies|Character Profiles]]
+The ship reached **Lakeland City on 14 Harvestshade, Year 513**, after twelve days from Tidemarch. The arrival session ended at **10:30 AM**. The crew have received local laws, seen Cinder Ledger questioning notices and learned of the Red Light Carnival's show for that evening. The notices state that the named crew are not fugitives and must not be imprisoned.
 
-## Current state
+Vesper is deceased and was buried at sea. Ryskulla left to find her family. Brother Oren stayed in Tidemarch, and Nix had earlier sought work there. Yama travels aboard; his formal crew place remains to be discussed. Trifoot, Xavier and Jinx remain the established active officers and adventurers of the ship.
 
-The latest validated session ended at **2:00 AM on 29 Sunglade, Year 513**, at the end of the Drowning Promise's second day traveling through the Underdark. The crew rescued the gravely injured Galdric Tombstone of the Swaying Peaks Brotherhood, shared his requested final revelry, and recovered his journal, blessed history tome, feast records, and brewing notes. Four umber hulks landed aboard the ship at the session endpoint; the confrontation had not begun.
+## Read the campaign
 
-This section includes shared party knowledge. It does not reveal private character memories, unshared discoveries, or future-session preparation.
+- [[06 Campaign Lore/Northern Current Carnies/Session Index|Session Index]]: fifteen linked session accounts.
+- [[06 Campaign Lore/Northern Current Carnies/Campaign Chronicle|Campaign Chronicle]]: the journey by arc.
+- [[06 Campaign Lore/Northern Current Carnies/Party-Known Discoveries|Party-Known Discoveries]]: what each shared reveal establishes.
+- [[06 Campaign Lore/Northern Current Carnies/Crew and Ship|Crew and Ship]]: current and former companions.
+- [[06 Campaign Lore/Northern Current Carnies/Missions and Locations|Missions and Locations]]: places reached and known destinations.
+- [[06 Campaign Lore/Northern Current Carnies/Recovered Evidence|Recovered Evidence]]: books, papers, objects and open questions.
+- [[06 Campaign Lore/Northern Current Carnies/Cinder Ledger Briefing|Cinder Ledger Briefing]]: the trafficking investigation and resolved ship encounter.
+- [[06 Campaign Lore/Northern Current Carnies/Open Threads|Open Threads]]: unresolved story questions.
+- [[06 Campaign Lore/Northern Current Carnies/Galdric Tombstone Materials/Galdric Tombstone — Journal and History of the Swaying Peaks Brotherhood|Galdric's journal and Brotherhood history]]: the recovered historical account.
+- [[04 Lore/Recovered Objects/Recovered Objects Index|Recovered Objects]]: identified objects and visible acquisitions.
+- [[02 People/People Index|People Index]] and [[03 Factions/Faction Index|Faction Index]]: individual people and organizations.
+
+This section records shared party knowledge. Public reference lore is identified separately from testimony, rumors and mysteries.

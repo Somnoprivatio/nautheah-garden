@@ -6,7 +6,7 @@ tags:
   - place
   - index
 created: 2026-09-07
-updated: 2026-10-27
+updated: 2026-11-22
 ---
 
 # Places Index
@@ -53,7 +53,7 @@ Lakeland is a nation and continent.
 
 - **Capitals**
   - [[01 World/Nations/Lakeland/Lakeland#Lakeland City|Lakeland City]] — national and continental capital.
-    - **Stores/Shops:** no public shop directory currently published.
+    - **Stores/Shops:** [[01 World/Nations/Lakeland/Lakeland City/Shops/Varrick Coinbeard's Shop|Varrick Coinbeard's Shop]].
 - **Regions**
   - [[01 World/Atlas/Regions/Reedwater Basin|Reedwater Basin]]
     - **Cities/Provinces**
@@ -136,7 +136,7 @@ Fisherman's Detriment is a tropical, mountainous island nation and archipelago. 
   - [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment#Elpa, City of the Two Tides|Elpa]] — city of the two tides.
     - **Stores/Shops:** The Second Skin; Keelbreaker Blades; The Brined Crucible; Brasswake Arms; The Resonant Spire; The Sunken Chandlery.
   - [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] — major harbor city.
-    - **Stores/Shops and notable locations:** [[02 People/Merchants and Proprietors#Keelwhisper|Talontinous Delight]]; Lion's Pride Inn; Forever Port Gazette; Iron Authority harbor facilities.
+    - **Stores/Shops and notable locations:** [[02 People/World/NPC - Shop/Keelwhisper|Talontinous Delight]]; Lion's Pride Inn; Forever Port Gazette; Iron Authority harbor facilities.
 
 ### [[01 World/Nations/Whoasis/Whoasis Index|Whoasis]]
 
@@ -213,3 +213,12 @@ Prominence is the eastern, war-scarred continent; a single continental capital h
 
 The public atlas contains broader regional and town summaries. This index is the preferred route for moving from a nation to its capital, regions, settlements, and publicly recorded sites.
 
+## Newly connected campaign places
+
+- [[01 World/Nations/Fisherman's Detriment/Regions/Elpa/Elpa|Elpa]]: [[01 World/Nations/Fisherman's Detriment/Regions/Elpa/Shops/Keelbreaker Blades|Keelbreaker Blades]], [[01 World/Nations/Fisherman's Detriment/Regions/Elpa/Shops/The Brined Crucible|The Brined Crucible]] and [[01 World/Nations/Fisherman's Detriment/Regions/Elpa/Shops/The Second Skin|The Second Skin]].
+- [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]]: [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Talontinous Delight|Talontinous Delight]], [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Drow Moon Temple|Drow Moon Temple]], [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Academy Outpost|Academy Outpost]], [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Dock E46|Dock E46]] and [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Lion's Pride Inn|Lion's Pride Inn]].
+- [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch|Tidemarch]]: [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Old Smokehouse|Old Smokehouse]], [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Gond's Nail|Gond's Nail]], [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Abe's Laboratory|Abe's Laboratory]] and [[01 World/Nations/New Anglia/Regions/Western Settled Coast/Tidemarch/Hunting Lodge|Hunting Lodge]].
+- [[01 World/Nations/Lakeland/Lakeland City/Lakeland City|Lakeland City]]: [[01 World/Nations/Lakeland/Lakeland City/Shops/Varrick Coinbeard's Shop|Varrick Coinbeard's Shop]] and [[01 World/Nations/Lakeland/Lakeland City/Red Light Carnival Grounds|Red Light Carnival Grounds]].
+- [[01 World/Routes/Underdark Water Passage|Underdark Water Passage]]: the route actually taken by the crew.
+
+[[04 Lore/Places Known by Report/Shadow Forge|Shadow Forge]] is known by report, rather than a visited location.

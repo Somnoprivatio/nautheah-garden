@@ -3,7 +3,7 @@ title: "Publishing Guide"
 tags:
   - guide
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 ---
 
 # Publishing Guide
@@ -20,3 +20,9 @@ This vault is built as plain Obsidian-compatible Markdown for player publication
 - Treat images and PDFs in `90 Assets` as public handouts.
 
 The notes use ordinary wikilinks and minimal frontmatter, a structure compatible with Obsidian and suitable for Quartz-style Markdown publishing.
+
+## Maintaining shared campaign lore
+
+Use the current [[00 Home/Reader Guide|Reader Guide]] boundary: publicly available reference lore and shared party knowledge. Review the actual audience of a reveal before adding it. Statements, reports and suspicions retain attribution. Unread documents, private scenes and undisclosed identities remain outside the public content.
+
+Maintain individual People pages within their campaign or world folders, keep organizations grouped by role, and connect discoveries to the relevant public session account. Update links and indexes when moving pages.

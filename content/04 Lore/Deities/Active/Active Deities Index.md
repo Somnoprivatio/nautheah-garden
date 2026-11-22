@@ -6,14 +6,14 @@ tags:
   - deity-active
   - index
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-22
 ---
 
 # Active Deities
 
 [[04 Lore/Deities/Deities Index|Deities Index]] · [[04 Lore/Faiths of Nautheah|Faiths of Nautheah]]
 
-These **49** deities and divine powers have a curated Nautheah connection. Active status does not mean every deity has appeared directly, maintains a public church in every region, or retains every detail from an external setting.
+These **50** deities and divine powers have a curated Nautheah connection. Active status does not mean every deity has appeared directly, maintains a public church in every region, or retains every detail from an external setting.
 
 ## Complete active list
 
@@ -66,3 +66,4 @@ These **49** deities and divine powers have a curated Nautheah connection. Activ
 - [[04 Lore/Deities/Active/Umberlee|Umberlee]] — Active in curated Nautheah records; detailed public local doctrine has not yet been published.
 - [[04 Lore/Deities/Active/Vecna|Vecna]] — Active in curated Nautheah records; detailed public local doctrine has not yet been published.
 - [[04 Lore/Deities/Active/Waukeen|Waukeen]] — Waukeen is an active divine power associated publicly with commerce, trade, and exchange. Merchants and market communities, including portions of Tidemarch's Saltmarket, maintain recognizable traditions in her name.
+- [[04 Lore/Deities/Active/Zaphkiel the Watcher|Zaphkiel the Watcher]] - Deity, ruler and leader of Mount Celestia; appeared after Abe's defeat.

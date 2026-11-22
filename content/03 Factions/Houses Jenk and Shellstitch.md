@@ -4,7 +4,7 @@ tags:
   - faction
   - noble-house
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 ---
 
 # Houses Jenk and Shellstitch
@@ -13,8 +13,8 @@ updated: 2026-09-07
 
 ## House Jenk
 
-An Elpa noble house publicly associated with [[02 People/Civic and World Figures#Leroy Jenk|Leroy Jenk]], formally styled Leroy of House Jenk. The house's wider membership, holdings, heraldry, and political alliances have not yet entered the public canon.
+[[03 Factions/Noble Houses/House Jenk|House Jenk]] is publicly associated with Leroy of House Jenk, the Elpa port-guard captain.
 
 ## House Shellstitch
 
-An important family within Elpa's hierarchy. [[02 People/Merchants and Proprietors#Veyra Shellstitch|Veyra Shellstitch]] is a prominent daughter or member and operates The Second Skin. Her exact parentage and rank remain intentionally undefined.
+[[03 Factions/Noble Houses/House Shellstitch|House Shellstitch]] is an important Elpa family; Veyra Shellstitch is a prominent member and runs The Second Skin.

@@ -5,7 +5,7 @@ tags:
   - history
   - index
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 ---
 
 # Public Records Index
@@ -19,3 +19,8 @@ updated: 2026-09-07
 
 > [!important] Source literacy
 > A public record proves that a statement was published or registered. Allegations remain attributed until independently confirmed.
+
+## Lakeland arrival notices
+
+- [[05 Public Records/Notices/Lakeland Cinder Ledger Questioning Notices|Cinder Ledger questioning notices]]: five named crew, explicitly not fugitives.
+- [[03 Factions/Performing Companies/Red Light Carnival|Red Light Carnival]]: advertised evening performance outside Lakeland City.

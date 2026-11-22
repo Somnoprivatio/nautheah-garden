@@ -4,26 +4,37 @@ tags:
   - people
   - shop
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 ---
 
 # Merchants and Proprietors
 
-[[02 People/People Index|People Index]] · [[01 World/Nations/Fisherman's Detriment/Fisherman's Detriment|Fisherman's Detriment]]
+[[02 People/People Index|People Index]]
 
 ## Caldris Vane
 
-A Triton swordsmith who operates **Keelbreaker Blades** above water in Elpa. His confirmed work includes maritime blades, enchantment commissions, and pressure-testing facilities.
+[[02 People/World/NPC - Shop/Caldris Vane|Caldris Vane]] runs Keelbreaker Blades in Elpa.
 
 ## Veyra Shellstitch
 
-A six-armed Simic Hybrid tailor who operates **The Second Skin** in Elpa. She creates clothing adapted for both surface and underwater life and is a prominent daughter or member of [[03 Factions/Houses Jenk and Shellstitch#House Shellstitch|House Shellstitch]]. Her exact rank within the family is not established.
+[[02 People/World/NPC - Shop/Veyra Shellstitch|Veyra Shellstitch]] runs The Second Skin in Elpa.
 
 ## Ilyon Marshglass
 
-Ilyon “Ily” Marshglass is a sea elf reagent broker and alchemical supplier who uses he/they pronouns. **The Brined Crucible** serves spellcasters, healers, researchers, and travelers preparing for unusual environments.
+[[02 People/World/NPC - Shop/Ilyon Marshglass|Ilyon Marshglass]] supplies reagents at The Brined Crucible in Elpa.
 
 ## Keelwhisper
 
-A male Tabaxi known by the title **Whisper beneath the Keel**. He owns **Talontinous Delight** in Forever Port. His broader private business and network are not part of this public profile.
+[[02 People/World/NPC - Shop/Keelwhisper|Keelwhisper]], Whisper beneath the Keel, owns Talontinous Delight in Forever Port.
 
+## Hesta Pike
+
+[[02 People/World/NPC - Shop/Hesta Pike|Hesta Pike]] owns The Nine Bells in Tidemarch.
+
+## Varrick Coinbeard
+
+[[02 People/World/NPC - Shop/Varrick Coinbeard|Varrick Coinbeard]] operates a magical-goods shop in Lakeland City.
+
+## Other encountered proprietors
+
+[[02 People/Campaign Specific/NPC - Story/Veylan Giltbrush|Veylan Giltbrush]] manages the Old Smokehouse. [[02 People/Campaign Specific/NPC - Story/Dorrin Flintmantle|Dorrin Flintmantle]] works as the blacksmith attached to the Lion's Pride Inn.

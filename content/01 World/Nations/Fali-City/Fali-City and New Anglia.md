@@ -8,7 +8,7 @@ tags:
   - nation
   - legacy-index
 created: 2026-09-07
-updated: 2026-10-13
+updated: 2026-11-22
 ---
 
 # Fali-City and New Anglia
@@ -21,7 +21,7 @@ This legacy combined page is retained for compatibility with older links. **Fali
 
 Fali-City is both a nation and the capital of its continent. The city is organized in eight broad rings around a central citadel, with four major roads cutting through the city. Wealth and political importance increase toward the center, while the outer districts connect trade, labor, travelers, and the surrounding territory.
 
-The city is known for its [[03 Factions/Fali-City Adventuring Academy|Adventuring Academy]], a dwarven mine, extensive commerce, and eastern and western bay trade outposts. Ilmater, Tyr, and Torm are among the publicly recognized faiths associated with the city.
+The city is known for its [[03 Factions/Orders and Schools/Fali-City Adventuring Academy|Adventuring Academy]], a dwarven mine, extensive commerce, and eastern and western bay trade outposts. Ilmater, Tyr, and Torm are among the publicly recognized faiths associated with the city.
 
 ### Population and culture
 

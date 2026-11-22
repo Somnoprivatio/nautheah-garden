@@ -7,7 +7,7 @@ tags:
   - navigation
   - public-record
 created: 2026-10-12
-updated: 2026-10-13
+updated: 2026-11-22
 ---
 
 # Lakeland
@@ -18,7 +18,7 @@ Canonical record: [[01 World/Nations/Lakeland/Lakeland|Lakeland]]. Lakeland is a
 
 ## Capital
 
-- [[01 World/Nations/Lakeland/Lakeland#Lakeland City|Lakeland City]] — national and continental capital.
+- [[01 World/Nations/Lakeland/Lakeland City/Lakeland City|Lakeland City]] — national and continental capital.
 
 ## Regions and settlements
 
@@ -26,3 +26,8 @@ Canonical record: [[01 World/Nations/Lakeland/Lakeland|Lakeland]]. Lakeland is a
 
 - [[01 World/Nations/Lakeland/Regions/Lakeland Regions Index|Lakeland Regions]]
 
+## Capital sites
+
+- [[01 World/Nations/Lakeland/Lakeland City/Shops/Varrick Coinbeard's Shop|Varrick Coinbeard's Shop]]
+- [[01 World/Nations/Lakeland/Lakeland City/Red Light Carnival Grounds|Red Light Carnival Grounds]]
+- [[05 Public Records/Notices/Lakeland Cinder Ledger Questioning Notices|Questioning notices]]

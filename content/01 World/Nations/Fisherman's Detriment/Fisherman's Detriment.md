@@ -5,14 +5,14 @@ tags:
   - nation
   - maritime
 created: 2026-09-07
-updated: 2026-10-13
+updated: 2026-11-22
 ---
 
 # Fisherman's Detriment
 
 [[01 World/00 Indexes/Places Index|Places Index]]
 
-Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
+Fisherman's Detriment is a tropical, mountainous island nation and archipelago. Dangerous creatures, waterways, irregular coastlines, fishing, shipping, and informal trade all shape life there. The [[03 Factions/Authorities/Iron Authority|Iron Authority]], known regionally as the Fisherman's Detriment Port Authority, maintains a visible maritime presence.
 
 ## Population and culture
 
@@ -24,9 +24,9 @@ The public register does not designate a national capital. [[01 World/Nations/Fi
 
 Elpa is a city built both above and beneath the water. Triton origins and later Simic refugee engineering helped create a settlement that can serve terrestrial and aquatic residents. Its public shops include:
 
-- **The Second Skin**, adaptive tailoring by [[02 People/Merchants and Proprietors#Veyra Shellstitch|Veyra Shellstitch]].
-- **Keelbreaker Blades**, maritime swordsmithing by [[02 People/Merchants and Proprietors#Caldris Vane|Caldris Vane]].
-- **The Brined Crucible**, reagents and alchemical supplies by [[02 People/Merchants and Proprietors#Ilyon Marshglass|Ilyon Marshglass]].
+- **The Second Skin**, adaptive tailoring by [[02 People/World/NPC - Shop/Veyra Shellstitch|Veyra Shellstitch]].
+- **Keelbreaker Blades**, maritime swordsmithing by [[02 People/World/NPC - Shop/Caldris Vane|Caldris Vane]].
+- **The Brined Crucible**, reagents and alchemical supplies by [[02 People/World/NPC - Shop/Ilyon Marshglass|Ilyon Marshglass]].
 
 ## Morning Dew
 
@@ -38,5 +38,8 @@ The [[01 World/Nations/Fisherman's Detriment/Regions/Morning Strait/Morning Stra
 
 ## Forever Port
 
-[[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port#Talontinous Delight|Talontinous Delight]], operated by [[02 People/Merchants and Proprietors#Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
+[[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] is a harbor city that never closes. Its lighthouses remain lit and ships move through its waters at all hours. It is described in current records as the world's busiest center of commerce. The port is home to [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port#Talontinous Delight|Talontinous Delight]], operated by [[02 People/World/NPC - Shop/Keelwhisper|Keelwhisper]], and to the widely circulating [[05 Public Records/Forever Port Gazette|Forever Port Gazette]].
 
+## Settlement directories
+
+[[01 World/Nations/Fisherman's Detriment/Regions/Elpa/Elpa|Elpa]] now has individual entries for Keelbreaker Blades, The Brined Crucible and The Second Skin. [[01 World/Nations/Fisherman's Detriment/Regions/Forever Port/Forever Port|Forever Port]] links the encountered temples, academy contact, inn and handoff berth.

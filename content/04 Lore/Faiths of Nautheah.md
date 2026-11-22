@@ -4,7 +4,7 @@ tags:
   - lore
   - deity
 created: 2026-09-07
-updated: 2026-10-27
+updated: 2026-11-22
 ---
 
 # Faiths of Nautheah
@@ -14,7 +14,7 @@ updated: 2026-10-27
 Nautheah contains many faiths. This page lists only deities with a clear public connection to currently documented places or legends.
 
 > [!info] Complete deity catalogue
-> Browse [[04 Lore/Deities/Deities Index|Deities of Nautheah]] for the complete library: **49 Active** deity records and **147 Inactive** reference records. Inactive entries are retained for research and are not established as active Nautheah canon.
+> Browse [[04 Lore/Deities/Deities Index|Deities of Nautheah]] for the complete library: **50 Active** deity records and **147 Inactive** reference records. Inactive entries are retained for research and are not established as active Nautheah canon.
 
 ## Selanora
 
@@ -26,7 +26,7 @@ Azul is a sea deity honored especially by farmers and sailors of Morning Dew. Pu
 
 ## Eldath
 
-Eldath is associated with peace, still water, and deliberate restraint. The [[03 Factions/Temple of the Still Palm|Temple of the Still Palm]] in New Anglia honors her through meditation, breath discipline, controlled martial practice, and teachings that distinguish composure from passivity.
+Eldath is associated with peace, still water, and deliberate restraint. The [[03 Factions/Orders and Schools/Temple of the Still Palm|Temple of the Still Palm]] in New Anglia honors her through meditation, breath discipline, controlled martial practice, and teachings that distinguish composure from passivity.
 
 ## Hanseath
 
@@ -49,3 +49,7 @@ Other deities may be worshiped across the world, but a name's existence in a ref
 
 - [[04 Lore/Deities/Active/Active Deities Index|Active Deities]] — divine powers with a curated Nautheah connection.
 - [[04 Lore/Deities/Inactive/Inactive Deities Index|Inactive Deities]] — reference-only entries not presently active in Nautheah canon.
+
+## Zaphkiel the Watcher
+
+[[04 Lore/Deities/Active/Zaphkiel the Watcher|Zaphkiel the Watcher]] is a deity and the ruler and leader of Mount Celestia. The crew encountered him after Abe's defeat; he claimed the remains and promised boons whose effects and delivery remain unresolved.

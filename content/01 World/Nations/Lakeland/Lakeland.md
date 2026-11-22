@@ -4,7 +4,7 @@ tags:
   - place
   - nation
 created: 2026-09-07
-updated: 2026-10-13
+updated: 2026-11-22
 ---
 
 # Lakeland
@@ -27,3 +27,6 @@ Past public commissions in and around the capital include the recovery of a miss
 
 Astralythia is a recognized territory within the nation and continent of Lakeland. Its exact borders, government, settlements, and cultural institutions have not yet been established in the public record.
 
+## Capital and current campaign
+
+[[01 World/Nations/Lakeland/Lakeland City/Lakeland City|Lakeland City]] has a dedicated city directory covering the crew's 14 Harvestshade arrival, public notices, Varrick Coinbeard's shop and advertised Red Light Carnival grounds.

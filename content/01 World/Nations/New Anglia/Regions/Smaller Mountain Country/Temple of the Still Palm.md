@@ -3,12 +3,12 @@ title: Temple of the Still Palm
 tags:
   - place
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-22
 ---
 
 # Temple of the Still Palm
 
-[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Nations/New Anglia/Regions/Inland Market Country/Brackenford|Brackenford]] · [[03 Factions/Temple of the Still Palm|Monastic order]]
+[[01 World/00 Indexes/Places Index|Places Index]] · [[01 World/Atlas/Regions/New Anglia|New Anglia]] · [[01 World/Nations/New Anglia/Regions/Inland Market Country/Brackenford|Brackenford]] · [[03 Factions/Orders and Schools/Temple of the Still Palm|Monastic order]]
 
 The Temple of the Still Palm occupies a high cliff among New Anglia's smaller mountain spines and cold, misted valleys. An old foothill and pilgrimage road rises toward it from the Brackenford region, although exact travel times vary with weather and the condition of the mountain paths.
 
@@ -24,3 +24,8 @@ The monastery combines tiered stone pagodas, open-air meditation courtyards, sym
 
 The site's age, mountain setting, disciplined reputation, and association with Eldath are publicly known. Its internal trials, private vows, and personal histories are not included in this public account.
 
+## Information received by the crew
+
+Brother Oren Vey described the [[04 Lore/Discoveries/Bell of the Still Palm|Still Palm bell]] and warned that prolonged tolling can harm people over a wide area. Its next cycle remains uncertain. Oren stayed in Tidemarch to attend to Vesper's affairs before his eventual journey home; the Northern Current Carnies have not visited the monastery.
+
+See [[06 Campaign Lore/Northern Current Carnies/Sessions/Session 012 - Tidemarch Homecoming|Session 012]] and [[06 Campaign Lore/Northern Current Carnies/Sessions/Session 015 - Vesper's Farewell and Lakeland Arrival|Session 015]].

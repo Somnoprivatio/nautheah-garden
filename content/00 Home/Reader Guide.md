@@ -3,24 +3,31 @@ title: "Reader Guide"
 tags:
   - guide
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 ---
 
 # Reader Guide
 
-Return to [[00 Home/Start Here|Nautheah Player Guide]].
+[[00 Home/Start Here|Nautheah Player Guide]]
 
-## What this vault means
+## Reading the record
 
-- **World reference** describes broadly researchable or commonly circulated information.
-- **Public record** preserves what a named publication, notice, or civic record claims. A newspaper report is evidence of what was printed, not proof that every allegation is true.
-- **Campaign lore** records what the current party has witnessed, received, or learned. New players should read it only if they want the active campaign's shared context.
-- **Unknown** means the source material did not establish the answer or the answer is not public.
+- **World reference** describes established, publicly available lore about places, people, organizations and traditions. It does not mean the party has personally met every listed person.
+- **Public record** preserves what a named newspaper, notice or civic source says. Reporting an allegation is different from proving it.
+- **Campaign lore** records information shared with the party and events it witnessed. Private scenes and unshared character knowledge are excluded.
+- **Testimony** identifies the speaker whose account supplied a claim. A speaker's explanation may remain unverified.
+- **Unknown** marks a question the shared record has not answered.
 
-## Spoiler boundary
+## Following discoveries
 
-This is a disclosure-controlled vault, not a mirrored copy of the GM archive. Private backstories, unshared character knowledge, secret organizations, disguised identities, hidden item mechanics, encounter preparation, and unresolved causal explanations are excluded rather than concealed inside comments.
+The [[06 Campaign Lore/Northern Current Carnies/Session Index|Session Index]] follows the journey in order. [[06 Campaign Lore/Northern Current Carnies/Party-Known Discoveries|Party-Known Discoveries]] connects the events to people, factions, places and evidence. Individual entries link back to the session in which the crew learned the information.
+
+The public world pages and campaign pages are available together. Readers joining the campaign should expect the campaign section to reveal past shared events.
+
+## Private material
+
+Unshared memories, private backstories, hidden identities, undisclosed loyalties, unrevealed item properties and future preparation are outside this vault. Their omission does not supply an answer to an active mystery.
 
 ## Navigation
 
-Every page links back to a category index. Obsidian wikilinks are used throughout, and every linked Markdown note exists inside this vault. The small tag set is documented in [[99 Meta/Tag Guide|Tag Guide]], and repository use is summarized in [[99 Meta/Publishing Guide|Publishing Guide]].
+[[02 People/People Index|People Index]] groups individuals by campaign role and world role. [[03 Factions/Faction Index|Faction Index]] groups authorities, orders, houses, exposed networks, performing companies and historical fellowships. [[01 World/00 Indexes/Places Index|Places Index]] follows nations, settlements and sites.

@@ -5,7 +5,7 @@ tags:
   - deity
   - index
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-22
 ---
 
 # Deities of Nautheah
@@ -16,7 +16,7 @@ Nautheah's religious library separates established local connections from names 
 
 ## Browse the catalogue
 
-- [[04 Lore/Deities/Active/Active Deities Index|Active Deities]] — **49** divine powers with a curated Nautheah connection.
+- [[04 Lore/Deities/Active/Active Deities Index|Active Deities]] — **50** divine powers with a curated Nautheah connection.
 - [[04 Lore/Deities/Inactive/Inactive Deities Index|Inactive Deities]] — **147** reference entries that are not currently established as active Nautheah canon.
 
 ## Classification boundary
