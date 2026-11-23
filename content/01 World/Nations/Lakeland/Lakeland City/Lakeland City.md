@@ -18,6 +18,7 @@ The Drowning Promise arrived on **14 Harvestshade, Year 513**, after a twelve-da
 
 ## Public notices and businesses
 
+- [[01 World/Nations/Lakeland/Lakeland City/Lakeland - Shops Attractions Events and Factions|Shops, attractions, events and factions]]: the city directory, including bathhouses, specialist amenities and local organizations.
 - [[05 Public Records/Notices/Lakeland Cinder Ledger Questioning Notices|Five questioning notices]] name Jinx, Trifoot, Vesper, Xavier Fontaine and Ryskulla. They explicitly say the crew are not fugitives and must not be imprisoned.
 - Jinx's advice on avoiding slavery is widely circulated and directs questions to Xavier.
 - The [[03 Factions/Performing Companies/Red Light Carnival|Red Light Carnival]] advertises **A lovely little terrible joke** for the evening of arrival, at the red tent beyond the city road.

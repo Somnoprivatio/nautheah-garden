@@ -44,6 +44,10 @@ The Port Authority name refers to the Iron Authority; the Iron Legion is its nav
 - [[03 Factions/Historical Fellowships/Nocte Equi Trojani|Nocte Equi Trojani]]
 - [[03 Factions/Historical Fellowships/Traveling Drow Liberators|Traveling Drow Liberators]]
 
+## Lakeland civic, trade and community groups
+
+- [[01 World/Nations/Lakeland/Lakeland City/Lakeland - Shops Attractions Events and Factions#Organizations and contacts|Lakeland organizations and contacts]]: Harbor Registry, Hall of Civic Charters, Lakewater Factors' Hall, Sluicehands Brotherhood, Freewake Circle, faith communities and arts patrons.
+
 ## Public publications
 
 - [[05 Public Records/Forever Port Gazette|Forever Port Gazette]]: maritime newspaper and warning source.

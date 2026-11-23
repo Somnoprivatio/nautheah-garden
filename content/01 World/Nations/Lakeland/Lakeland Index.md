@@ -28,6 +28,7 @@ Canonical record: [[01 World/Nations/Lakeland/Lakeland|Lakeland]]. Lakeland is a
 
 ## Capital sites
 
+- [[01 World/Nations/Lakeland/Lakeland City/Lakeland - Shops Attractions Events and Factions|Lakeland city directory: shops, attractions, events and factions]]
 - [[01 World/Nations/Lakeland/Lakeland City/Shops/Varrick Coinbeard's Shop|Varrick Coinbeard's Shop]]
 - [[01 World/Nations/Lakeland/Lakeland City/Red Light Carnival Grounds|Red Light Carnival Grounds]]
 - [[05 Public Records/Notices/Lakeland Cinder Ledger Questioning Notices|Questioning notices]]
